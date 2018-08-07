@@ -1,0 +1,107 @@
+
+{
+
+	"SNavigator":
+	{	
+		"COMMENT":"ISP Navigation Panel...",
+		"type":"animation",
+		"version":"0.1.0",
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"Welcome...",
+					"type":"node",
+					"subtype":"module", 
+					 "name":"NOOP",
+					 "edges":
+							[
+							]
+					}															
+		},		
+            
+		"CModules":
+		{
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CModules  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+            
+            "NOOP":{
+				"COMMENT":"",
+				"type":"module",
+				"reuse":true,
+				"actiontracks":		
+				[
+					{"actionname":"NOOP", "features":""}
+				]
+			}			
+		}
+	},
+	
+	
+
+	"SScene1":
+	{	
+		"COMMENT":"TED Introduction sequence...",
+		"type":"animation",
+		"version":"0.1.0",
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"Welcome...",
+					"type":"node",
+					"subtype":"module", 
+					"name":"INTRO1",
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CModules  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+		
+			"INTRO1":
+			{
+				"COMMENT":"",
+				"type":"module",
+				"reuse":true,
+				"actiontracks":		
+				[
+					{"trackname":"track1",  "autostep":true, "stepdelay":1500, "features":""},
+					{"trackname":"track2",  "autostep":true, "stepdelay":1500, "features":""},
+					{"trackname":"track3",  "autostep":true, "stepdelay":1500, "features":""},
+					{"trackname":"track4",  "autostep":true, "stepdelay":500, "features":""},
+					{"trackname":"track5",  "autostep":true, "stepdelay":1500, "features":""},
+					{"trackname":"track6",  "autostep":true, "stepdelay":500, "features":""},
+					{"trackname":"track7",  "autostep":true, "stepdelay":1500, "features":""},
+					{"trackname":"track8",  "autostep":true, "stepdelay":500, "features":""},
+					{"trackname":"track9",  "autostep":true, "stepdelay":250, "features":""},
+					{"trackname":"track10", "autostep":true, "stepdelay":1500, "features":""},
+					{"trackname":"track11", "autostep":true, "stepdelay":1500, "features":""},
+					{"trackname":"track12", "autostep":true, "stepdelay":1500, "features":""},
+                    {"trackname":"track13", "autostep":true, "stepdelay":1500, "features":""}
+                    
+
+				]
+            },
+            "NEXTSCENE":{
+				"COMMENT":"",
+				"type":"module",
+				"reuse":true,
+				"actiontracks":		
+				[
+					{"actionname":"NEXTSCENE", "features":""}
+				]
+            }
+		}
+	}
+}
+
+
+
+
+
+

@@ -1,0 +1,114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__TeacherBody2" itemID="5b631dab-00000259" lastModified="1533222315">
+  <timeline>
+    <DOMTimeline name="TC_TObject__TeacherBody2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#ACC3D8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!322 3311S1|337 3309!337 3309[353 3299 355 3291!355 3291|355 3283!355 3283|353 3278!353 3278[353 3271 345 3266!345 3266[337 3258 332 3263!332 3263|330 3261!330 3261[325 3258 315 3263!315 3263|302 3273!302 3273|300 3283!300 3283[297 3291
+ 302 3301!302 3301|310 3309!310 3309|322 3311"/>
+                    <Edge fillStyle0="2" edges="
+!-156 3111S1[-143 3109 -128 3094!-128 3094[-108 3078 -100 3073!-100 3073[-80 3063 -75 3053!-75 3053[-75 3051 -75 3048!-75 3048[-75 3040 -77 3035!-77 3035[-85 3025 -95 3023!-95 3023[-110 3018 -136 3028!-136 3028[-136 3010 -141 3000!-141
+ 3000[-146 2985 -158 2982!-158 2982[-179 2977 -184 3000!-184 3000[-189 3008 -189 3028!-189 3028|-219 3101!-219 3101[-224 3111 -229 3114!-229 3114[-237 3121 -257 3124!-257 3124[-267 3129 -270 3139!-270 3139[-272 3152 -265 3162!-265 3162
+[-255 3172 -227 3172!-227 3172[-214 3172 -201 3164!-201 3164[-194 3159 -184 3144!-184 3144|-169 3114!-169 3114[-163 3114 -156 3111"/>
+                    <Edge cubics="!-156 3111(;-133,3106 -120,3083 -100,3073q-156 3111Q-143 3109q-128 3094Q-108 3078q-100 3073);"/>
+                    <Edge cubics="!-100 3073(;-93,3066 -80,3063 -75,3053q-100 3073Q-80 3063q-75 3053);"/>
+                    <Edge cubics="!-95 3023(;-108,3018 -123,3023 -136,3028q-95 3023Q-110 3018q-136 3028);"/>
+                    <Edge cubics="!-136 3028(;-136,3018 -136,3010 -141,3000q-136 3028Q-136 3010q-141 3000);"/>
+                    <Edge cubics="!-141 3000(;-143,2992 -148,2985 -158,2982q-141 3000Q-146 2985q-158 2982);"/>
+                    <Edge cubics="!-158 2982(;-169,2980 -181,2990 -184,3000q-158 2982Q-179 2977q-184 3000);"/>
+                    <Edge cubics="!-219 3101(;-222,3106 -224,3111 -229,3114q-219 3101Q-224 3111q-229 3114);"/>
+                    <Edge cubics="!-229 3114(;-237,3121 -247,3119 -257,3124q-229 3114Q-237 3121q-257 3124);"/>
+                    <Edge cubics="!-257 3124(;-270,3129 -275,3149 -265,3162q-257 3124Q-267 3129q-270 3139Q-272 3152q-265 3162);"/>
+                    <Edge cubics="!-265 3162(;-255,3172 -239,3172 -227,3172q-265 3162Q-255 3172q-227 3172);"/>
+                    <Edge cubics="!-227 3172(;-219,3172 -209,3170 -201,3164q-227 3172Q-214 3172q-201 3164);"/>
+                    <Edge cubics="!-201 3164(;-194,3159 -189,3152 -184,3144q-201 3164Q-194 3159q-184 3144);"/>
+                    <Edge cubics="!322 3311(;327,3311 332,3309 337,3309p322 3311 337 3309);"/>
+                    <Edge cubics="!337 3309(;345,3304 353,3299 355,3291q337 3309Q353 3299q355 3291);"/>
+                    <Edge cubics="!355 3291(;355,3288 355,3286 355,3283q355 3291 355 3283);"/>
+                    <Edge cubics="!355 3283(;355,3283 355,3281 353,3278q355 3283 353 3278);"/>
+                    <Edge cubics="!353 3278(;353,3273 350,3268 345,3266q353 3278Q353 3271q345 3266);"/>
+                    <Edge cubics="!345 3266(;343,3263 335,3261 332,3263q345 3266Q337 3258q332 3263);"/>
+                    <Edge cubics="!332 3263(;332,3261 330,3261 330,3261q332 3263 330 3261);"/>
+                    <Edge cubics="!330 3261(;325,3258 320,3261 315,3263q330 3261Q325 3258q315 3263);"/>
+                    <Edge cubics="!315 3263(;310,3266 305,3271 302,3273q315 3263 302 3273);"/>
+                    <Edge cubics="!302 3273(;302,3276 300,3281 300,3283q302 3273 300 3283);"/>
+                    <Edge cubics="!300 3283(;297,3288 300,3296 302,3301q300 3283Q297 3291q302 3301);"/>
+                    <Edge cubics="!302 3301(;305,3304 307,3306 310,3309q302 3301 310 3309);"/>
+                    <Edge cubics="!310 3309(;315,3311 317,3311 322,3311q310 3309 322 3311);"/>
+                    <Edge cubics="!-77 3035(;-82,3028 -88,3025 -95,3023q-77 3035Q-85 3025q-95 3023);"/>
+                    <Edge cubics="!-169 3114(;-166,3114 -161,3114 -156,3111q-169 3114Q-163 3114q-156 3111);"/>
+                    <Edge cubics="!-75 3053(;-75,3051 -75,3051 -75,3048q-75 3053Q-75 3051q-75 3048);"/>
+                    <Edge cubics="!-75 3048(;-75,3043 -75,3038 -77,3035q-75 3048Q-75 3040q-77 3035);"/>
+                    <Edge cubics="!-184 3000(;-186,3005 -189,3015 -189,3028q-184 3000Q-189 3008q-189 3028);"/>
+                    <Edge cubics="!-189 3028(;-189,3028 -219,3101 -219,3101q-189 3028 -219 3101);"/>
+                    <Edge cubics="!-184 3144(;-184,3144 -169,3114 -169,3114q-184 3144 -169 3114);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/shoes" selected="true" centerPoint3DX="-3.65" centerPoint3DY="158.7">
+                  <matrix>
+                    <Matrix a="-2.528076171875" d="2.528076171875" tx="-3.35" ty="158.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/pants" selected="true" centerPoint3DX="3.05" centerPoint3DY="43.6">
+                  <matrix>
+                    <Matrix a="-2.528076171875" d="2.528076171875" tx="3.05" ty="43.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="1.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/hands" selected="true" centerPoint3DX="-0.05" centerPoint3DY="-79.85">
+                  <matrix>
+                    <Matrix a="-2.528076171875" d="2.528076171875" tx="0.05" ty="-79.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/shirtoutline" selected="true" centerPoint3DX="3.2" centerPoint3DY="-81.35">
+                  <matrix>
+                    <Matrix a="-2.528076171875" d="2.528076171875" tx="3.15" ty="-81.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/shirt" selected="true" centerPoint3DX="2.85" centerPoint3DY="-82.85">
+                  <matrix>
+                    <Matrix a="-2.528076171875" d="2.528076171875" tx="2.75" ty="-82.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/shirtdetail" selected="true" centerPoint3DX="-9.8" centerPoint3DY="-99.1">
+                  <matrix>
+                    <Matrix a="-2.528076171875" d="2.528076171875" tx="-9.65" ty="-99.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

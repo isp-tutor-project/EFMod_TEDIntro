@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CClassroomBackgroundAssets/board" itemID="5a295d22-00000082" lastModified="1512660259">
+  <timeline>
+    <DOMTimeline name="board">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#5C7C45"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="6.75">
+                        <fill>
+                          <SolidColor color="#475D33"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-3429 -1827|3429 -1827!3429 -1827[3622 -1827 3622 -1650!3622 -1650|3622 1650!3622 1650[3622 1828 3429 1828!3429 1828|-3429 1828!-3429 1828[-3622 1828 -3622 1650!-3622 1650|-3622 -1650!-3622 -1650[-3622 -1827 -3429 -1827"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

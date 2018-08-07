@@ -1,0 +1,73 @@
+<!- EDFORGE EXTERNAL ->
+
+<style id="internalStyle">
+    [eftext].outerContainer {
+        display: block;
+        position: absolute;
+        box-sizing: content-box;
+    }
+
+    [eftext] .tablecell {
+        display: table-cell;
+        height: inherit;
+        width: inherit;
+    }
+
+    [eftext] p {
+        margin: 0px;
+    }
+</style>
+
+<style id="authortimeStyle">
+    [efcontrolname].outerContainer {
+
+        border: 12pt solid #475D33;
+        background: #5C7C45;
+    }
+</style>
+
+
+<style id="customStyle">
+    [efcontrolname].outerContainer {
+
+        top: 0px;
+        left: 0px;
+        width: 724px;
+        height: 365px;
+
+        /* padding-left: 1em;
+            padding-right: 1em; */
+        border-radius: 10px;
+
+        font-size: 35px;
+        font-family: Pangolin;
+
+        /* box-shadow: 6px 6px 4px 4px #a1a1a198; */
+        user-select: none;
+        text-align: center;
+    }
+
+    [efcontrolname] .tablecell {
+        vertical-align: middle;
+    }
+
+    [efcontrolname] p {
+        color: white;
+    }
+</style>
+
+<div eftext efcontrolname class="outerContainer">
+    <div class="tablecell" id="controlContainer">
+        <p>
+            <span id="s1">
+                <img src="images/check1.png"> Correct answers advance.
+            </span>
+
+            <span id="s2"  style="visibility: hidden;">
+                <br>
+                <br>
+                <img src="images/wrong1.png"> Incorrect answers
+                    <br> extra help & more practice.</span>
+        </p>
+    </div>
+</div>

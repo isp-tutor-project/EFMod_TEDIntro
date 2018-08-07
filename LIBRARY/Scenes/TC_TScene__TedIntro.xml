@@ -1,0 +1,115 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TedIntro" itemID="5b6215e6-000004a5" lastModified="1533679457" lastUniqueIdentifier="1">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="TC_TScene__TedIntro">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TC_TTeacher__Teacher1" name="STeacher" selected="true">
+                  <matrix>
+                    <Matrix tx="1338.3" ty="337.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="103.7" y="210.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="STextBox1">
+                  <matrix>
+                    <Matrix a="8.14199829101563" d="3.94149780273438" tx="563.75" ty="146.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.05" y="49.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/board">
+                  <matrix>
+                    <Matrix a="2.29998779296875" d="2.29998779296875" tx="971.7" ty="347.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__ClassroomBackground">
+                  <matrix>
+                    <Matrix tx="958.5" ty="792.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Studentbodies">
+                  <matrix>
+                    <Matrix a="2.67515563964844" d="3.1837158203125" tx="950.3" ty="980.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.5" y="-2.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student1Head" name="SStudent2">
+                  <matrix>
+                    <Matrix a="2.29998779296875" d="2.29998779296875" tx="633.55" ty="789.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="11.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student2Head" name="SStudent1">
+                  <matrix>
+                    <Matrix a="2.29998779296875" d="2.29998779296875" tx="299.05" ty="794.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student3Head" name="SStudent4">
+                  <matrix>
+                    <Matrix a="2.29998779296875" d="2.29998779296875" tx="1634.35" ty="804.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.85" y="7.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student4Head" name="SStudent3">
+                  <matrix>
+                    <Matrix tx="1279.5" ty="826.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/CChairsCombined" centerPoint3DX="959.8" centerPoint3DY="965.65">
+                  <matrix>
+                    <Matrix a="1.3499755859375" d="1.3499755859375" tx="959.8" ty="965.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="3.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

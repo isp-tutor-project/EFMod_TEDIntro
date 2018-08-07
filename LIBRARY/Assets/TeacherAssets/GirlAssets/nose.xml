@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TeacherAssets/GirlAssets/nose" itemID="5a395747-00000105" lastModified="1512077526">
+  <timeline>
+    <DOMTimeline name="nose">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-20 -11S4[-20 -3 -15 3!-15 3[-9 10 -1 11!-1 11[8 12 14 6!14 6[21 1 21 -7"/>
+                    <Edge cubics="!-20 -11(;-20,-5 -18,-1 -15,3q-20 -11Q-20 -3q-15 3);"/>
+                    <Edge cubics="!-1 11(;5,12 11,10 14,6q-1 11Q8 12q14 6);"/>
+                    <Edge cubics="!14 6(;19,3 21,-2 21,-7q14 6Q21 1q21 -7);"/>
+                    <Edge cubics="!-15 3(;-11,8 -7,10 -1,11q-15 3Q-9 10q-1 11);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

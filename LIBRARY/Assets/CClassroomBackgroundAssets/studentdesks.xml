@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CClassroomBackgroundAssets/studentdesks" itemID="5a295d3c-0000008a" lastModified="1512660284">
+  <timeline>
+    <DOMTimeline name="studentdesks">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E3CF6B"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5499 -256S1|984 -256!984 -256|1240 257!1240 257|5499 257!5499 257|5499 -256"/>
+                    <Edge fillStyle1="1" edges="!-5499 -256S2|-1024 -256!-1024 -256|-1278 257!-1278 257|-5499 257!-5499 257|-5499 -256"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

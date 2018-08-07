@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__ClassroomBackground" itemID="5b631dbe-0000025d" lastModified="1533222334">
+  <timeline>
+    <DOMTimeline name="TC_TObject__ClassroomBackground">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/floor" selected="true" centerPoint3DX="-1.35" centerPoint3DY="91.7">
+                  <matrix>
+                    <Matrix a="2.74847412109375" d="3.2984619140625" tx="-8.15" ty="91.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="-1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/desk" selected="true" centerPoint3DX="8.1" centerPoint3DY="-144.35">
+                  <matrix>
+                    <Matrix a="2.69989013671875" d="2.69989013671875" tx="8.05" ty="-144.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/studentdesks" selected="true" centerPoint3DX="5.4" centerPoint3DY="89.4">
+                  <matrix>
+                    <Matrix a="2.69989013671875" d="3.142822265625" tx="5.35" ty="89.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/sideofstudentdesk" selected="true" centerPoint3DX="2.7" centerPoint3DY="95.7">
+                  <matrix>
+                    <Matrix a="2.69989013671875" d="3.142822265625" tx="2.65" ty="95.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

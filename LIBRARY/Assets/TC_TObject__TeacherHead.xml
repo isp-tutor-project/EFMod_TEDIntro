@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__TeacherHead" itemID="5b631db0-0000025b" lastModified="1533222320">
+  <timeline>
+    <DOMTimeline name="TC_TObject__TeacherHead">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/hairback" selected="true" centerPoint3DX="-3.9" centerPoint3DY="25.9">
+                  <matrix>
+                    <Matrix a="2.528076171875" d="2.528076171875" tx="-3.85" ty="25.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/headneck" selected="true" centerPoint3DX="-2.3" centerPoint3DY="6.9">
+                  <matrix>
+                    <Matrix a="2.528076171875" d="2.528076171875" tx="-2.3" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/eyes" selected="true" centerPoint3DX="-2.4" centerPoint3DY="3.6">
+                  <matrix>
+                    <Matrix a="2.528076171875" d="2.528076171875" tx="-2.5" ty="3.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/glasses" selected="true" centerPoint3DX="-2.5" centerPoint3DY="4.5">
+                  <matrix>
+                    <Matrix a="2.528076171875" d="2.528076171875" tx="-2.6" ty="4.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/frames" selected="true" centerPoint3DX="-2.9" centerPoint3DY="1.1">
+                  <matrix>
+                    <Matrix a="2.528076171875" d="2.528076171875" tx="-2.95" ty="1.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/hairfront" selected="true" centerPoint3DX="-1.75" centerPoint3DY="-4.35">
+                  <matrix>
+                    <Matrix a="2.528076171875" d="2.528076171875" tx="-1.7" ty="-4.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/ear" selected="true" centerPoint3DX="36.45" centerPoint3DY="6.15">
+                  <matrix>
+                    <Matrix a="2.528076171875" d="2.528076171875" tx="36.25" ty="6.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/nose" selected="true" centerPoint3DX="-3.55" centerPoint3DY="15.75">
+                  <matrix>
+                    <Matrix a="2.528076171875" d="2.528076171875" tx="-3.45" ty="15.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TeacherAssets/GirlAssets/mouth" selected="true" centerPoint3DX="-3.4" centerPoint3DY="25.6">
+                  <matrix>
+                    <Matrix a="2.528076171875" d="2.528076171875" tx="-3.45" ty="25.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

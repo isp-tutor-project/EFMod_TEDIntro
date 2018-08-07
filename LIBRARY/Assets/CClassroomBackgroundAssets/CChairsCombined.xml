@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CClassroomBackgroundAssets/CChairsCombined" itemID="5b227092-00000336" lastModified="1533153388">
+  <timeline>
+    <DOMTimeline name="CChairsCombined">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/chairs">
+                  <matrix>
+                    <Matrix a="2.04429626464844" d="2.37664794921875" tx="-8.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="1.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/chairbolt">
+                  <matrix>
+                    <Matrix tx="212.55" ty="-37.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/chairbolt">
+                  <matrix>
+                    <Matrix tx="273.75" ty="-36"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/chairbolt">
+                  <matrix>
+                    <Matrix tx="497.95" ty="-37.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/chairbolt">
+                  <matrix>
+                    <Matrix tx="-281.3" ty="-37.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/chairbolt">
+                  <matrix>
+                    <Matrix tx="-213.95" ty="-37.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/chairbolt">
+                  <matrix>
+                    <Matrix tx="-498.05" ty="-35.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
