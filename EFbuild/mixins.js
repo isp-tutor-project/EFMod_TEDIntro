@@ -1,7 +1,7 @@
 var EFTut_Suppl;
 (function (EFTut_Suppl) {
-    var EFMOD_TEDINTRO;
-    (function (EFMOD_TEDINTRO) {
+    var EFMod_TEDIntro;
+    (function (EFMod_TEDIntro) {
         class CONST {
         }
         CONST.TUTORCONTAINER = "STutorContainer";
@@ -15,13 +15,13 @@ var EFTut_Suppl;
         CONST.MOUSE_CLICK = "click";
         CONST.DOUBLE_CLICK = "dblclick";
         CONST.CLICK = "click";
-        EFMOD_TEDINTRO.CONST = CONST;
-    })(EFMOD_TEDINTRO = EFTut_Suppl.EFMOD_TEDINTRO || (EFTut_Suppl.EFMOD_TEDINTRO = {}));
+        EFMod_TEDIntro.CONST = CONST;
+    })(EFMod_TEDIntro = EFTut_Suppl.EFMod_TEDIntro || (EFTut_Suppl.EFMod_TEDIntro = {}));
 })(EFTut_Suppl || (EFTut_Suppl = {}));
 var EFTut_Suppl;
 (function (EFTut_Suppl) {
-    var EFMOD_TEDINTRO;
-    (function (EFMOD_TEDINTRO) {
+    var EFMod_TEDIntro;
+    (function (EFMod_TEDIntro) {
         class $Common {
             $onCreateScene() { }
             $preEnterScene() { }
@@ -42,31 +42,31 @@ var EFTut_Suppl;
             $cuePoints(id) { }
             $timedEvents(id) { }
         }
-        EFMOD_TEDINTRO.$Common = $Common;
-    })(EFMOD_TEDINTRO = EFTut_Suppl.EFMOD_TEDINTRO || (EFTut_Suppl.EFMOD_TEDINTRO = {}));
+        EFMod_TEDIntro.$Common = $Common;
+    })(EFMod_TEDIntro = EFTut_Suppl.EFMod_TEDIntro || (EFTut_Suppl.EFMod_TEDIntro = {}));
 })(EFTut_Suppl || (EFTut_Suppl = {}));
 var EFTut_Suppl;
 (function (EFTut_Suppl) {
-    var EFMOD_TEDINTRO;
-    (function (EFMOD_TEDINTRO) {
+    var EFMod_TEDIntro;
+    (function (EFMod_TEDIntro) {
         class Globals {
             constructor() {
                 this.$var1 = "valname2";
             }
         }
-        EFMOD_TEDINTRO.Globals = Globals;
-    })(EFMOD_TEDINTRO = EFTut_Suppl.EFMOD_TEDINTRO || (EFTut_Suppl.EFMOD_TEDINTRO = {}));
+        EFMod_TEDIntro.Globals = Globals;
+    })(EFMod_TEDIntro = EFTut_Suppl.EFMod_TEDIntro || (EFTut_Suppl.EFMod_TEDIntro = {}));
 })(EFTut_Suppl || (EFTut_Suppl = {}));
 var EFTut_Suppl;
 (function (EFTut_Suppl) {
-    var EFMOD_TEDINTRO;
-    (function (EFMOD_TEDINTRO) {
+    var EFMod_TEDIntro;
+    (function (EFMod_TEDIntro) {
         class SNavigator {
             $onCreateScene() {
                 console.log("$Navigator created");
-                this.connectNavButton(EFMOD_TEDINTRO.CONST.NEXTSCENE, "Snext");
-                this.connectNavButton(EFMOD_TEDINTRO.CONST.PREVSCENE, "Sback");
-                this.setNavigationTarget(EFMOD_TEDINTRO.CONST.NAVSCENE);
+                this.connectNavButton(EFMod_TEDIntro.CONST.NEXTSCENE, "Snext");
+                this.connectNavButton(EFMod_TEDIntro.CONST.PREVSCENE, "Sback");
+                this.setNavigationTarget(EFMod_TEDIntro.CONST.NAVSCENE);
             }
             $onEnterScene() {
             }
@@ -122,13 +122,13 @@ var EFTut_Suppl;
             $timedEvents(id) {
             }
         }
-        EFMOD_TEDINTRO.SNavigator = SNavigator;
-    })(EFMOD_TEDINTRO = EFTut_Suppl.EFMOD_TEDINTRO || (EFTut_Suppl.EFMOD_TEDINTRO = {}));
+        EFMod_TEDIntro.SNavigator = SNavigator;
+    })(EFMod_TEDIntro = EFTut_Suppl.EFMod_TEDIntro || (EFTut_Suppl.EFMod_TEDIntro = {}));
 })(EFTut_Suppl || (EFTut_Suppl = {}));
 var EFTut_Suppl;
 (function (EFTut_Suppl) {
-    var EFMOD_TEDINTRO;
-    (function (EFMOD_TEDINTRO) {
+    var EFMod_TEDIntro;
+    (function (EFMod_TEDIntro) {
         class SScene1 {
             constructor() {
                 this.$var1 = "valname2";
@@ -322,7 +322,7 @@ var EFTut_Suppl;
             $timedEvents(id) {
             }
         }
-        EFMOD_TEDINTRO.SScene1 = SScene1;
-    })(EFMOD_TEDINTRO = EFTut_Suppl.EFMOD_TEDINTRO || (EFTut_Suppl.EFMOD_TEDINTRO = {}));
+        EFMod_TEDIntro.SScene1 = SScene1;
+    })(EFMod_TEDIntro = EFTut_Suppl.EFMod_TEDIntro || (EFTut_Suppl.EFMod_TEDIntro = {}));
 })(EFTut_Suppl || (EFTut_Suppl = {}));
 //# sourceMappingURL=mixins.js.map

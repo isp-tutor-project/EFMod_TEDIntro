@@ -1,4 +1,4 @@
-declare namespace EFTut_Suppl.EFMOD_TEDINTRO {
+declare namespace EFTut_Suppl.EFMod_TEDIntro {
     class CONST {
         static readonly TUTORCONTAINER: string;
         static readonly NEXTSCENE: string;
@@ -13,7 +13,7 @@ declare namespace EFTut_Suppl.EFMOD_TEDINTRO {
         static readonly CLICK: string;
     }
 }
-declare namespace EFTut_Suppl.EFMOD_TEDINTRO {
+declare namespace EFTut_Suppl.EFMod_TEDIntro {
     class $Common {
         [key: string]: any;
         $onCreateScene(): void;
@@ -33,13 +33,13 @@ declare namespace EFTut_Suppl.EFMOD_TEDINTRO {
         $timedEvents(id: string): void;
     }
 }
-declare namespace EFTut_Suppl.EFMOD_TEDINTRO {
+declare namespace EFTut_Suppl.EFMod_TEDIntro {
     class Globals {
         $var1: string;
         [key: string]: any;
     }
 }
-declare namespace EFTut_Suppl.EFMOD_TEDINTRO {
+declare namespace EFTut_Suppl.EFMod_TEDIntro {
     class SNavigator {
         [key: string]: any;
         $onCreateScene(): void;
@@ -58,7 +58,7 @@ declare namespace EFTut_Suppl.EFMOD_TEDINTRO {
         $timedEvents(id: string): void;
     }
 }
-declare namespace EFTut_Suppl.EFMOD_TEDINTRO {
+declare namespace EFTut_Suppl.EFMod_TEDIntro {
     class SScene1 {
         $var1: string;
         [key: string]: any;

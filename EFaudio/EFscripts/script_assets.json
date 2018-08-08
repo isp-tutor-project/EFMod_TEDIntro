@@ -13,7 +13,7 @@
 								"id": "0",
 								"SSML": "Welcome. You are about to begin the TED Tutor.",
 								"cues": [],
-								"duration": 2580.8333333333335,
+								"duration": 2822.2083333333335,
 								"trim": 0,
 								"volume": 1
 							}
@@ -117,7 +117,7 @@
 								"id": "0",
 								"SSML": "Also like a real teacher, TED looks at your answers to see how well you are learning how to design good experiments.",
 								"cues": [],
-								"duration": 5730.333333333333,
+								"duration": 6047.916666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -195,7 +195,7 @@
 								"id": "0",
 								"SSML": "You will move through TED's instruction at your own pace.",
 								"cues": [],
-								"duration": 2820.9166666666665,
+								"duration": 2653.4166666666665,
 								"trim": 0,
 								"volume": 1
 							}
@@ -273,7 +273,7 @@
 								"id": "0",
 								"SSML": "The only way for TED to know how much you are learning is through your answers to its questions.",
 								"cues": [],
-								"duration": 4430.083333333333,
+								"duration": 4673.166666666667,
 								"trim": 0,
 								"volume": 1
 							}
