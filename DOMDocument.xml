@@ -64,7 +64,7 @@
           <Include href="Assets/TC_TObject__ClassroomBackground.xml" loadImmediate="false" itemID="5b631dbe-0000025d" lastModified="1533222334"/>
           <Include href="Assets/TC_TObject__greencheckmark.xml" loadImmediate="false" itemID="5b631e0e-000002ba" lastModified="1533222414"/>
           <Include href="Assets/TC_TObject__redx.xml" loadImmediate="false" itemID="5b631e13-000002bb" lastModified="1533222419"/>
-          <Include href="Assets/TC_TObject__Student1Head.xml" loadImmediate="false" itemID="5b631d9c-00000254" lastModified="1533222300"/>
+          <Include href="Assets/TC_TObject__Student1Head.xml" loadImmediate="false" itemID="5b631d9c-00000254" lastModified="1533849834"/>
           <Include href="Assets/TC_TObject__Student2Head.xml" loadImmediate="false" itemID="5b631da0-00000255" lastModified="1533222304"/>
           <Include href="Assets/TC_TObject__Student3Head.xml" loadImmediate="false" itemID="5b631da6-00000257" lastModified="1533222310"/>
           <Include href="Assets/TC_TObject__Student4Head.xml" loadImmediate="false" itemID="5b631da3-00000256" lastModified="1533222307"/>
@@ -91,8 +91,8 @@
           <Include href="Assets/TeacherAssets/GirlAssets/shoes.xml" loadImmediate="false" itemID="5a395747-000000fe" lastModified="1512076504"/>
           <Include href="Scenes/TC_TScene__EndCloak.xml" loadImmediate="false" itemID="5b6378be-00000669" lastModified="1533679464"/>
           <Include href="Scenes/TC_TScene__Navigator.xml" loadImmediate="false" itemID="5b411263-0000033b" lastModified="1533679376"/>
-          <Include href="Scenes/TC_TScene__TedIntro.xml" loadImmediate="false" itemID="5b6215e6-000004a5" lastModified="1533679457"/>
-          <Include href="TC_TTeacher__Teacher1.xml" loadImmediate="false" itemID="5b68b4f8-000008e8" lastModified="1533596701"/>
+          <Include href="Scenes/TC_TScene__TedIntro.xml" loadImmediate="false" itemID="5b6215e6-000004a5" lastModified="1533849988"/>
+          <Include href="TC_TTeacher__Teacher1.xml" loadImmediate="false" itemID="5b68b4f8-000008e8" lastModified="1533850031"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">

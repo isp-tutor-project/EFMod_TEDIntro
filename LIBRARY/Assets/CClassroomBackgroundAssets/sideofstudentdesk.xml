@@ -24,12 +24,11 @@
                   <edges>
                     <Edge fillStyle0="1" edges="!5519 311S1|5519 203"/>
                     <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!1260 311S7|1260 203"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!1260 203S6|5519 203!5519 311|1260 311"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!5519 311S6|1260 311!1260 203|5519 203"/>
                     <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!-1260 311S7|-1260 203"/>
                     <Edge fillStyle1="1" edges="!-5519 311S2|-5519 203"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="!-5519 311S5|-1260 311!-1260 203|-5519 203"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-1260 203S5|-5519 203!-5519 311|-1260 311!-1260 311|-1004 -310!-1004 -310|-1260 203"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!1260 311S6|1004 -310!1004 -310|1260 203"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="!-1260 311S5|-1004 -310!-1004 -310|-1260 203"/>
                   </edges>
                 </DOMShape>
               </elements>
