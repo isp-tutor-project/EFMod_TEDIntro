@@ -1,4 +1,4 @@
-namespace EFTut_Suppl.EFMOD_TEDINTRO {
+namespace EFTut_Suppl.EFMod_TEDIntro {
 
     export class Globals {
 

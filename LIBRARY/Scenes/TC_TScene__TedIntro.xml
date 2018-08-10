@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TedIntro" itemID="5b6215e6-000004a5" lastModified="1533679457" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TedIntro" itemID="5b6215e6-000004a5" lastModified="1533849988" lastUniqueIdentifier="1">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -41,7 +41,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/board">
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/board" cacheAsBitmap="true">
                   <matrix>
                     <Matrix a="2.29998779296875" d="2.29998779296875" tx="971.7" ty="347.7"/>
                   </matrix>
@@ -49,7 +49,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__ClassroomBackground">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__ClassroomBackground" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="958.5" ty="792.5"/>
                   </matrix>
@@ -65,7 +65,7 @@
                     <Point x="1.5" y="-2.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student1Head" name="SStudent2">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student1Head" name="SStudent2" cacheAsBitmap="true">
                   <matrix>
                     <Matrix a="2.29998779296875" d="2.29998779296875" tx="633.55" ty="789.7"/>
                   </matrix>
@@ -73,7 +73,7 @@
                     <Point y="11.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student2Head" name="SStudent1">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student2Head" name="SStudent1" cacheAsBitmap="true">
                   <matrix>
                     <Matrix a="2.29998779296875" d="2.29998779296875" tx="299.05" ty="794.3"/>
                   </matrix>
@@ -81,7 +81,7 @@
                     <Point x="-5.05" y="7.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student3Head" name="SStudent4">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student3Head" name="SStudent4" cacheAsBitmap="true">
                   <matrix>
                     <Matrix a="2.29998779296875" d="2.29998779296875" tx="1634.35" ty="804.4"/>
                   </matrix>
@@ -89,7 +89,7 @@
                     <Point x="0.85" y="7.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student4Head" name="SStudent3">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Student4Head" name="SStudent3" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="1279.5" ty="826.45"/>
                   </matrix>
@@ -97,7 +97,7 @@
                     <Point x="-0.3" y="7"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/CChairsCombined" centerPoint3DX="959.8" centerPoint3DY="965.65">
+                <DOMSymbolInstance libraryItemName="Assets/CClassroomBackgroundAssets/CChairsCombined" cacheAsBitmap="true" centerPoint3DX="959.8" centerPoint3DY="965.65">
                   <matrix>
                     <Matrix a="1.3499755859375" d="1.3499755859375" tx="959.8" ty="965.65"/>
                   </matrix>
