@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TTeacher__Teacher1" itemID="5b68b4f8-000008e8" lastModified="1533850031">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TTeacher__Teacher1" itemID="5b68b4f8-000008e8" lastModified="1533850031">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -9,7 +9,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__TeacherHead" name="head" cacheAsBitmap="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TTeacher__Assets/TC_TObject__TeacherHead" name="head" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="134.65" ty="50.35"/>
                   </matrix>
@@ -25,7 +25,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__TeacherBodyPointing" name="pose3" selected="true" cacheAsBitmap="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TTeacher__Assets/TC_TObject__TeacherBodyPointing" name="pose3" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="96.25" ty="252.15"/>
                   </matrix>
@@ -41,7 +41,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__TeacherBody2" name="pose2" selected="true" cacheAsBitmap="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TTeacher__Assets/TC_TObject__TeacherBody2" name="pose2" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="124.25" ty="250.45"/>
                   </matrix>
@@ -57,7 +57,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__TeacherBody1" name="pose1" selected="true" cacheAsBitmap="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TTeacher__Assets/TC_TObject__TeacherBody1" name="pose1" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="138.25" ty="254.35"/>
                   </matrix>

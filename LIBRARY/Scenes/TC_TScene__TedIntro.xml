@@ -9,7 +9,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="TC_TTeacher__Teacher1" name="STeacher" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TTeacher__Teacher1" name="STeacher" selected="true">
                   <matrix>
                     <Matrix tx="1338.3" ty="337.2"/>
                   </matrix>

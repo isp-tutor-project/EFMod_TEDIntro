@@ -9,9 +9,10 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
           <DOMFolderItem name="Assets" itemID="5b632aef-00000431" isExpanded="true"/>
           <DOMFolderItem name="Assets/CClassroomBackgroundAssets" itemID="5a295d90-000000b2"/>
-          <DOMFolderItem name="Assets/NavPanel Components" itemID="5b68a049-000004cf" isExpanded="true"/>
+          <DOMFolderItem name="Assets/NavPanel Components" itemID="5b68a049-000004cf"/>
           <DOMFolderItem name="Assets/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
           <DOMFolderItem name="Assets/NavPanel Components/TC_TButton__Button Assets/icons" itemID="532c6375-000002d1" isExpanded="true"/>
+          <DOMFolderItem name="Assets/TC_TTeacher__Assets" itemID="5b7079ad-000006c1"/>
           <DOMFolderItem name="Assets/TeacherAssets" itemID="5b621393-00000415" isExpanded="true"/>
           <DOMFolderItem name="Assets/TeacherAssets/GirlAssets" itemID="5a395747-000000b8"/>
           <DOMFolderItem name="Scenes" itemID="5b632ace-0000042d" isExpanded="true"/>
@@ -29,7 +30,7 @@
           <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
           <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
           <Include href="_HTMLControls/TC_TObject__BlueOval.xml" loadImmediate="false" itemID="5b50c6ff-0000031f" lastModified="1532020479"/>
-          <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1533679405"/>
+          <Include href="_Tutor Global Assets_/TC_TVirtual_Type1.xml" loadImmediate="false" itemID="5b70798c-000006bd" lastModified="1534097804"/>
           <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
           <Include href="Assets/CClassroomBackgroundAssets/board.xml" loadImmediate="false" itemID="5a295d22-00000082" lastModified="1512660259"/>
           <Include href="Assets/CClassroomBackgroundAssets/CChairsCombined.xml" loadImmediate="false" itemID="5b227092-00000336" lastModified="1533153388"/>
@@ -57,7 +58,6 @@
           <Include href="Assets/NavPanel Components/TC_TButton__Button Assets/NextButtonOver.xml" loadImmediate="false" itemID="53469c70-000003d1" lastModified="1398217480"/>
           <Include href="Assets/NavPanel Components/TC_TButton__Button Assets/NextButtonUp.xml" loadImmediate="false" itemID="53469c78-000003dc" lastModified="1401481127"/>
           <Include href="Assets/NavPanel Components/TC_TButton__Button Assets/NextOutline.xml" loadImmediate="false" itemID="53469c8d-000003f0" lastModified="1397136525"/>
-          <Include href="Assets/NavPanel Components/TC_TButton__NavButton.xml" itemIcon="0" loadImmediate="false" itemID="5b40ff12-00000306" lastModified="1533584206"/>
           <Include href="Assets/NavPanel Components/TC_TButton__NextButton.xml" itemIcon="0" loadImmediate="false" itemID="5b68a24f-00000546" lastModified="1533588646"/>
           <Include href="Assets/NavPanel Components/TC_TButton__PrevButton.xml" itemIcon="0" loadImmediate="false" itemID="5b68a25d-00000547" lastModified="1533586273"/>
           <Include href="Assets/TC_TObject__arrow.xml" loadImmediate="false" itemID="5b631efb-000002d1" lastModified="1533225413"/>
@@ -69,10 +69,11 @@
           <Include href="Assets/TC_TObject__Student3Head.xml" loadImmediate="false" itemID="5b631da6-00000257" lastModified="1533222310"/>
           <Include href="Assets/TC_TObject__Student4Head.xml" loadImmediate="false" itemID="5b631da3-00000256" lastModified="1533222307"/>
           <Include href="Assets/TC_TObject__Studentbodies.xml" loadImmediate="false" itemID="5b631dbb-0000025c" lastModified="1533222331"/>
-          <Include href="Assets/TC_TObject__TeacherBody1.xml" loadImmediate="false" itemID="5b631da8-00000258" lastModified="1533222312"/>
-          <Include href="Assets/TC_TObject__TeacherBody2.xml" loadImmediate="false" itemID="5b631dab-00000259" lastModified="1533222315"/>
-          <Include href="Assets/TC_TObject__TeacherBodyPointing.xml" loadImmediate="false" itemID="5b631dad-0000025a" lastModified="1533222317"/>
-          <Include href="Assets/TC_TObject__TeacherHead.xml" loadImmediate="false" itemID="5b631db0-0000025b" lastModified="1533222320"/>
+          <Include href="Assets/TC_TTeacher__Assets/TC_TObject__TeacherBody1.xml" loadImmediate="false" itemID="5b631da8-00000258" lastModified="1533222312"/>
+          <Include href="Assets/TC_TTeacher__Assets/TC_TObject__TeacherBody2.xml" loadImmediate="false" itemID="5b631dab-00000259" lastModified="1533222315"/>
+          <Include href="Assets/TC_TTeacher__Assets/TC_TObject__TeacherBodyPointing.xml" loadImmediate="false" itemID="5b631dad-0000025a" lastModified="1533222317"/>
+          <Include href="Assets/TC_TTeacher__Assets/TC_TObject__TeacherHead.xml" loadImmediate="false" itemID="5b631db0-0000025b" lastModified="1533222320"/>
+          <Include href="Assets/TC_TTeacher__Teacher1.xml" loadImmediate="false" itemID="5b68b4f8-000008e8" lastModified="1533850031"/>
           <Include href="Assets/TeacherAssets/GirlAssets/ear.xml" loadImmediate="false" itemID="5a395747-00000104" lastModified="1512077514"/>
           <Include href="Assets/TeacherAssets/GirlAssets/eyes.xml" loadImmediate="false" itemID="5a395747-000000fa" lastModified="1512076461"/>
           <Include href="Assets/TeacherAssets/GirlAssets/frames.xml" loadImmediate="false" itemID="5a395747-000000fc" lastModified="1512076484"/>
@@ -92,7 +93,6 @@
           <Include href="Scenes/TC_TScene__EndCloak.xml" loadImmediate="false" itemID="5b6378be-00000669" lastModified="1533679464"/>
           <Include href="Scenes/TC_TScene__Navigator.xml" loadImmediate="false" itemID="5b411263-0000033b" lastModified="1533679376"/>
           <Include href="Scenes/TC_TScene__TedIntro.xml" loadImmediate="false" itemID="5b6215e6-000004a5" lastModified="1533849988"/>
-          <Include href="TC_TTeacher__Teacher1.xml" loadImmediate="false" itemID="5b68b4f8-000008e8" lastModified="1533850031"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
@@ -111,7 +111,7 @@
                          <frames>
                               <DOMFrame index="0" duration="3" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
+                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual_Type1">
                                              <transformationPoint>
                                                   <Point x="959.95" y="600"/>
                                              </transformationPoint>
