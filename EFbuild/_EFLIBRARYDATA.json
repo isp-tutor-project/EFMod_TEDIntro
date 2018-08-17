@@ -1,0 +1,257 @@
+{
+	"_LIBRARY": {
+		"eflist": {},
+		"eftext": {
+			"STextBox1": [
+				{
+					"id": "A",
+					"src": "$$EFX.html_text1",
+					"xname": "STextBox1",
+					"default": true,
+					"htmlData": {
+						"style": {
+							"[stextbox1].outerContainer": {
+								"text-align": "center",
+								"user-select": "none",
+								"font-family": "Pangolin",
+								"font-size": "30pt",
+								"border-radius": "10px",
+								"height": "365px",
+								"width": "724px",
+								"left": "0px",
+								"top": "0px"
+							},
+							"[stextbox1] .tablecell": {
+								"vertical-align": "middle"
+							},
+							"[stextbox1] p": {
+								"color": "white"
+							}
+						},
+						"html": "\n        <p>\n            <span style=\"font-size:2em\">Welcome!</span>\n            <br>\n            <br> You are about to begin the TED Tutor.</p>\n    "
+					}
+				},
+				{
+					"id": "B",
+					"src": "$$EFX.html_text2",
+					"xname": "STextBox1",
+					"htmlData": {
+						"style": {
+							"[stextbox1].outerContainer": {
+								"text-align": "center",
+								"user-select": "none",
+								"font-family": "Pangolin",
+								"font-size": "35px",
+								"border-radius": "10px",
+								"height": "365px",
+								"width": "724px",
+								"left": "0px",
+								"top": "0px"
+							},
+							"[stextbox1] .tablecell": {
+								"vertical-align": "middle"
+							},
+							"[stextbox1] p": {
+								"color": "white"
+							}
+						},
+						"html": "\n        <p>With it, you will learn a procedure\n            <br>\n            <br> for how to design\n            <br>\n            <br> good science experiments.</p>\n    "
+					}
+				},
+				{
+					"id": "C",
+					"src": "$$EFX.html_text3",
+					"xname": "STextBox1",
+					"htmlData": {
+						"style": {
+							"[stextbox1].outerContainer": {
+								"text-align": "center",
+								"user-select": "none",
+								"font-family": "Pangolin",
+								"font-size": "35px",
+								"border-radius": "10px",
+								"height": "365px",
+								"width": "724px",
+								"left": "0px",
+								"top": "0px"
+							},
+							"[stextbox1] .tablecell": {
+								"vertical-align": "middle"
+							},
+							"[stextbox1] p": {
+								"color": "white"
+							}
+						},
+						"html": "\n        <p>This procedure is called\n            <br>\n            <br> the control of variables strategy or\n            <br>\n            <br> vary one thing at a time. </p>\n    "
+					}
+				},
+				{
+					"id": "D",
+					"src": "$$EFX.html_text4",
+					"xname": "STextBox1",
+					"htmlData": {
+						"style": {
+							"[stextbox1].outerContainer": {
+								"text-align": "center",
+								"user-select": "none",
+								"font-family": "Pangolin",
+								"font-size": "35px",
+								"border-radius": "10px",
+								"height": "365px",
+								"width": "724px",
+								"left": "0px",
+								"top": "0px"
+							},
+							"[stextbox1] .tablecell": {
+								"vertical-align": "middle"
+							},
+							"[stextbox1] p": {
+								"color": "white"
+							}
+						},
+						"html": "\n        <p>TED is a computer tutor.\n            <br>\n            <br> Like a real teacher, TED provides\n            <br> instruction and feedback. </p>\n    "
+					}
+				},
+				{
+					"id": "E",
+					"src": "$$EFX.html_text5",
+					"xname": "STextBox1",
+					"htmlData": {
+						"style": {
+							"[stextbox1].outerContainer": {
+								"text-align": "center",
+								"user-select": "none",
+								"font-family": "Pangolin",
+								"font-size": "35px",
+								"border-radius": "10px",
+								"height": "365px",
+								"width": "724px",
+								"left": "0px",
+								"top": "0px"
+							},
+							"[stextbox1] .tablecell": {
+								"vertical-align": "middle"
+							},
+							"[stextbox1] p": {
+								"color": "white"
+							}
+						},
+						"html": "\n        <p>\n            <span id=\"s1\">\n                <img src=\"EFMod_TEDIntro\\EFdata\\images\\check1.png\"> Correct answers advance.\n            </span>\n\n            <span id=\"s2\" style=\"visibility: hidden;\">\n                <br>\n                <br>\n                <img src=\"EFMod_TEDIntro\\EFdata\\images\\wrong1.png\"> Incorrect answers\n                    <br> extra help &amp; more practice.</span>\n        </p>\n    "
+					}
+				},
+				{
+					"id": "F",
+					"src": "$$EFX.html_text6",
+					"xname": "STextBox1",
+					"htmlData": {
+						"style": {
+							"[stextbox1].outerContainer": {
+								"text-align": "center",
+								"user-select": "none",
+								"font-family": "Pangolin",
+								"font-size": "35px",
+								"border-radius": "10px",
+								"height": "365px",
+								"width": "724px",
+								"left": "0px",
+								"top": "0px"
+							},
+							"[stextbox1] .tablecell": {
+								"vertical-align": "middle"
+							},
+							"[stextbox1] p": {
+								"color": "white"
+							}
+						},
+						"html": "\n        <p>\n            <span id=\"s1\">\n                <img src=\"EFMod_TEDIntro\\EFdata\\images\\arrow1.png\">\n                    <br> Sometimes you go \"backwards\"\n                    <br> and repeat questions.</span>\n            <br>\n            <br>\n            <span id=\"s2\">TED has determined you\n                <br> might need more practice.</span>\n        </p>\n    "
+					}
+				},
+				{
+					"id": "G",
+					"src": "$$EFX.html_text7",
+					"xname": "STextBox1",
+					"htmlData": {
+						"style": {
+							"[stextbox1].outerContainer": {
+								"text-align": "center",
+								"user-select": "none",
+								"font-family": "Pangolin",
+								"font-size": "35px",
+								"border-radius": "10px",
+								"height": "365px",
+								"width": "724px",
+								"left": "0px",
+								"top": "0px"
+							},
+							"[stextbox1] .tablecell": {
+								"vertical-align": "middle"
+							},
+							"[stextbox1] p": {
+								"color": "white"
+							}
+						},
+						"html": "\n        <p>\n            <span id=\"s1\">Your answers</span>\n            <br>\n            <span id=\"s2\">to its questions</span>\n        </p>\n    "
+					}
+				},
+				{
+					"id": "H",
+					"src": "$$EFX.html_text8",
+					"xname": "STextBox1",
+					"htmlData": {
+						"style": {
+							"[stextbox1].outerContainer": {
+								"text-align": "center",
+								"user-select": "none",
+								"font-family": "Pangolin",
+								"font-size": "35px",
+								"border-radius": "10px",
+								"height": "365px",
+								"width": "724px",
+								"left": "0px",
+								"top": "0px"
+							},
+							"[stextbox1] .tablecell": {
+								"vertical-align": "middle"
+							},
+							"[stextbox1] p": {
+								"line-height": "1.7em",
+								"color": "white"
+							}
+						},
+						"html": "\n        <p>\n            It's important to make sure\n            <br> you understand\n            <br> what each question is asking\n            <br> &amp; to answer carefully.</p>\n    "
+					}
+				},
+				{
+					"id": "I",
+					"src": "$$EFX.html_text9",
+					"xname": "STextBox1",
+					"htmlData": {
+						"style": {
+							"[stextbox1].outerContainer": {
+								"text-align": "center",
+								"user-select": "none",
+								"font-family": "Pangolin",
+								"font-size": "40px",
+								"border-radius": "10px",
+								"height": "365px",
+								"width": "724px",
+								"left": "0px",
+								"top": "0px"
+							},
+							"[stextbox1] .tablecell": {
+								"vertical-align": "middle"
+							},
+							"[stextbox1] p": {
+								"line-height": "1.7em",
+								"color": "white"
+							}
+						},
+						"html": "\n        <p>\n            Let's Begin!</p>\n    "
+					}
+				}
+			]
+		},
+		"efinput": {},
+		"eftable": {}
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"_LIBRARY": {
+		"eflist": {},
+		"eftext": {
+			"STextBox1": [
+				{
+					"id": "A",
+					"src": "$$EFX.html_text1",
+					"xname": "STextBox1",
+					"default": true
+				},
+				{
+					"id": "B",
+					"src": "$$EFX.html_text2",
+					"xname": "STextBox1"
+				},
+				{
+					"id": "C",
+					"src": "$$EFX.html_text3",
+					"xname": "STextBox1"
+				},
+				{
+					"id": "D",
+					"src": "$$EFX.html_text4",
+					"xname": "STextBox1"
+				},
+				{
+					"id": "E",
+					"src": "$$EFX.html_text5",
+					"xname": "STextBox1"
+				},
+				{
+					"id": "F",
+					"src": "$$EFX.html_text6",
+					"xname": "STextBox1"
+				},
+				{
+					"id": "G",
+					"src": "$$EFX.html_text7",
+					"xname": "STextBox1"
+				},
+				{
+					"id": "H",
+					"src": "$$EFX.html_text8",
+					"xname": "STextBox1"
+				},
+				{
+					"id": "I",
+					"src": "$$EFX.html_text9",
+					"xname": "STextBox1"
+				}
+			]
+		},
+		"efinput": {},
+		"eftable": {}
+	}
+}

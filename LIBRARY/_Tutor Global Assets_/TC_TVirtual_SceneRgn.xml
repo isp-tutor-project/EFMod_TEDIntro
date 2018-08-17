@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Tutor Global Assets_/TC_TVirtual_Type1" itemID="5b70798c-000006bd" sourceFlashFilepath="../EFMod_NavTED/EFMod_NavTED.xfl" sourceLibraryItemHRef="Tutor Global Assets/SceneRegion" sourceLastModified="1523901913" lastModified="1534097804" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Tutor Global Assets_/TC_TVirtual_SceneRgn" itemID="5b774596-0000037a" sourceFlashFilepath="../EFMod_NavTED/EFMod_NavTED.xfl" sourceLibraryItemHRef="Tutor Global Assets/SceneRegion" sourceLastModified="1523901913" lastModified="1534543254" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
   <timeline>
-    <DOMTimeline name="TC_TVirtual_Type1">
+    <DOMTimeline name="TC_TVirtual_SceneRgn">
       <layers>
         <DOMLayer name="region" color="#4FFF4F" autoNamed="false">
           <frames>

@@ -58,11 +58,6 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
         public $nodeAction(actionId:string) : void {
             
             switch(actionId) {
-                case "ENTER1":
-                    this.setButtonBehavior('incrAnimation'); 
-                    this.fComplete=false; 
-                    this.updateNav(); 
-                    break;
             }
         }
         
@@ -84,19 +79,6 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     break;
                 case "$end":
                     console.log("executing CuePoint END");
-                    break;
-
-
-                case "a":
-                    console.log("executing CuePoint 1");
-                    break;
-
-                case "b":
-                    console.log("executing CuePoint 2");
-                    break;
-
-                case "z":
-                    console.log("executing CuePoint 3");
                     break;
             }
         }

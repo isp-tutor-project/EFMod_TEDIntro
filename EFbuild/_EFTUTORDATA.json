@@ -1,5 +1,5 @@
 {
-	"TUTORDATA": "v1.0.0",
+	"MODULEDATA": "v1.0.0",
 	"SScene1": {
 		"STextBox1": {
 			"$$REF": "$$EFL.eftext.STextBox1"
