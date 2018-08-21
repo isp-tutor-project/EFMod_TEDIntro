@@ -14,8 +14,7 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
         // Tutor graph methods
         //
         
-        public $onCreateScene() {
-            console.log("$Navigator created");
+        public $preCreateScene() {
             this.connectNavButton(CONST.NEXTSCENE, "Snext");
             this.connectNavButton(CONST.PREVSCENE, "Sback");
             this.setNavigationTarget(CONST.NAVSCENE);

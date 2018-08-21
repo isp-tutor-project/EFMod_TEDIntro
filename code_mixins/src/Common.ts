@@ -20,7 +20,8 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
         //***********************************************
         // Tutor graph methods
         //
-        
+
+        public $preCreateScene() { /* empty */  }        
         public $onCreateScene() { /* empty */  }
 
         public $preEnterScene() { /* empty */  }

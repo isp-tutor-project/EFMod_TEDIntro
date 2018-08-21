@@ -13,7 +13,7 @@
 								"id": "0",
 								"SSML": "Welcome. You are about to begin the TED Tutor.",
 								"cues": [],
-								"duration": 2580.8333333333335,
+								"duration": 2563.6666666666665,
 								"trim": 0,
 								"volume": 1
 							}
@@ -91,7 +91,7 @@
 								"id": "0",
 								"SSML": "TED is a computer tutor. Like a real teacher, TED provides instruction and feedback.",
 								"cues": [],
-								"duration": 5357.208333333333,
+								"duration": 5008.625,
 								"trim": 0,
 								"volume": 1
 							}
@@ -117,7 +117,7 @@
 								"id": "0",
 								"SSML": "Also like a real teacher, TED looks at your answers to see how well you are learning how to design good experiments.",
 								"cues": [],
-								"duration": 6047.916666666667,
+								"duration": 6088.791666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -143,7 +143,7 @@
 								"id": "0",
 								"SSML": "If you answer TED's questions correctly, it will assume that you have learned the material and are ready to advance.",
 								"cues": [],
-								"duration": 5812.625,
+								"duration": 5550.625,
 								"trim": 0,
 								"volume": 1
 							}
@@ -169,7 +169,7 @@
 								"id": "0",
 								"SSML": "If you answered TED's questions incorrectly, it will assume that you need extra help and more practice.",
 								"cues": [],
-								"duration": 5399,
+								"duration": 5390.916666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -195,7 +195,7 @@
 								"id": "0",
 								"SSML": "You will move through TED's instruction at your own pace.",
 								"cues": [],
-								"duration": 2635.5416666666665,
+								"duration": 2757.125,
 								"trim": 0,
 								"volume": 1
 							}
@@ -221,7 +221,7 @@
 								"id": "0",
 								"SSML": "You may find that sometimes you go backwards and repeat questions.",
 								"cues": [],
-								"duration": 3494.75,
+								"duration": 3531.0416666666665,
 								"trim": 0,
 								"volume": 1
 							}
@@ -247,7 +247,7 @@
 								"id": "0",
 								"SSML": "This is because TED has determined, based on your answers, that you need more practice before you can move forward.",
 								"cues": [],
-								"duration": 5490.666666666667,
+								"duration": 5817.833333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -273,7 +273,7 @@
 								"id": "0",
 								"SSML": "The only way for TED to know how much you are learning is through your answers to its questions.",
 								"cues": [],
-								"duration": 4673.166666666667,
+								"duration": 4677.625,
 								"trim": 0,
 								"volume": 1
 							}
@@ -299,7 +299,7 @@
 								"id": "0",
 								"SSML": "For this reason, it's important to make sure you understand what each question is asking and to answer carefully.",
 								"cues": [],
-								"duration": 5540.166666666667,
+								"duration": 5315.083333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -325,7 +325,7 @@
 								"id": "0",
 								"SSML": "Let's begin.",
 								"cues": [],
-								"duration": 928.625,
+								"duration": 838.7083333333334,
 								"trim": 0,
 								"volume": 1
 							}

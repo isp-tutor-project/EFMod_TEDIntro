@@ -1,35 +1,65 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Tutor Global Scenes/TC_TNavPanel__Navigator" itemID="5b77453d-00000374" lastModified="1534543165">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Tutor Global Scenes/TC_TNavPanel__Navigator" itemID="5b77453d-00000374" lastModified="1534867783">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TNavPanel__Navigator">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+        <DOMLayer name="Snext" color="#FF0000" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/NavPanel Components/TC_TButton__PrevButton" name="Sback" symbolType="button">
+                <DOMSymbolInstance libraryItemName="Assets/NavPanel Components/TC_TButton__NextButton" name="Snext" symbolType="button">
                   <matrix>
-                    <Matrix tx="47" ty="1086"/>
+                    <Matrix tx="1785.1" ty="1086"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="114" y="114"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/NavPanel Components/TC_TButton__NextButton" name="Snext" selected="true" symbolType="button">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sback" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/NavPanel Components/TC_TButton__PrevButton" name="Sback" symbolType="button">
                   <matrix>
-                    <Matrix tx="1806" ty="1086"/>
+                    <Matrix tx="60.4" ty="1086"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="114" y="114"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SbackMask" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TObject__backMask" name="SbackMask">
+                  <matrix>
+                    <Matrix tx="-1" ty="1006.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="450.65" y="97.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sbackground" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TObject__NavBackground" name="Sbackground" centerPoint3DX="512" centerPoint3DY="384">
+                  <transformationPoint>
+                    <Point x="275" y="200"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

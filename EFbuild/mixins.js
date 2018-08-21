@@ -23,6 +23,7 @@ var EFTut_Suppl;
     var EFMod_TEDIntro;
     (function (EFMod_TEDIntro) {
         class $Common {
+            $preCreateScene() { }
             $onCreateScene() { }
             $preEnterScene() { }
             $onEnterScene() { }
@@ -62,8 +63,7 @@ var EFTut_Suppl;
     var EFMod_TEDIntro;
     (function (EFMod_TEDIntro) {
         class SNavigator {
-            $onCreateScene() {
-                console.log("$Navigator created");
+            $preCreateScene() {
                 this.connectNavButton(EFMod_TEDIntro.CONST.NEXTSCENE, "Snext");
                 this.connectNavButton(EFMod_TEDIntro.CONST.PREVSCENE, "Sback");
                 this.setNavigationTarget(EFMod_TEDIntro.CONST.NAVSCENE);
@@ -89,11 +89,6 @@ var EFTut_Suppl;
             }
             $nodeAction(actionId) {
                 switch (actionId) {
-                    case "ENTER1":
-                        this.setButtonBehavior('incrAnimation');
-                        this.fComplete = false;
-                        this.updateNav();
-                        break;
                 }
             }
             $nodeConstraint(constrainId) {
@@ -107,15 +102,6 @@ var EFTut_Suppl;
                         break;
                     case "$end":
                         console.log("executing CuePoint END");
-                        break;
-                    case "a":
-                        console.log("executing CuePoint 1");
-                        break;
-                    case "b":
-                        console.log("executing CuePoint 2");
-                        break;
-                    case "z":
-                        console.log("executing CuePoint 3");
                         break;
                 }
             }

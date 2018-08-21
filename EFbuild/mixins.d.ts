@@ -16,6 +16,7 @@ declare namespace EFTut_Suppl.EFMod_TEDIntro {
 declare namespace EFTut_Suppl.EFMod_TEDIntro {
     class $Common {
         [key: string]: any;
+        $preCreateScene(): void;
         $onCreateScene(): void;
         $preEnterScene(): void;
         $onEnterScene(): void;
@@ -42,7 +43,7 @@ declare namespace EFTut_Suppl.EFMod_TEDIntro {
 declare namespace EFTut_Suppl.EFMod_TEDIntro {
     class SNavigator {
         [key: string]: any;
-        $onCreateScene(): void;
+        $preCreateScene(): void;
         $onEnterScene(): void;
         $preEnterScene(): void;
         $preExitScene(): void;

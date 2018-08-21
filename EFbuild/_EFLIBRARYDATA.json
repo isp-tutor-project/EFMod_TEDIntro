@@ -5,8 +5,8 @@
 			"STextBox1": [
 				{
 					"id": "A",
-					"src": "$$EFX.html_text1",
-					"xname": "STextBox1",
+					"src": "$$EFX.html_text",
+					"datasource": "$EFL_efdata.intro1",
 					"default": true,
 					"htmlData": {
 						"style": {
@@ -14,7 +14,7 @@
 								"text-align": "center",
 								"user-select": "none",
 								"font-family": "Pangolin",
-								"font-size": "30pt",
+								"font-size": "35pt",
 								"border-radius": "10px",
 								"height": "365px",
 								"width": "724px",
@@ -28,20 +28,20 @@
 								"color": "white"
 							}
 						},
-						"html": "\n        <p>\n            <span style=\"font-size:2em\">Welcome!</span>\n            <br>\n            <br> You are about to begin the TED Tutor.</p>\n    "
+						"html": "\n    "
 					}
 				},
 				{
 					"id": "B",
-					"src": "$$EFX.html_text2",
-					"xname": "STextBox1",
+					"src": "$$EFX.html_text",
+					"datasource": "$EFL_efdata.intro2",
 					"htmlData": {
 						"style": {
 							"[stextbox1].outerContainer": {
 								"text-align": "center",
 								"user-select": "none",
 								"font-family": "Pangolin",
-								"font-size": "35px",
+								"font-size": "35pt",
 								"border-radius": "10px",
 								"height": "365px",
 								"width": "724px",
@@ -55,20 +55,20 @@
 								"color": "white"
 							}
 						},
-						"html": "\n        <p>With it, you will learn a procedure\n            <br>\n            <br> for how to design\n            <br>\n            <br> good science experiments.</p>\n    "
+						"html": "\n    "
 					}
 				},
 				{
 					"id": "C",
-					"src": "$$EFX.html_text3",
-					"xname": "STextBox1",
+					"src": "$$EFX.html_text",
+					"datasource": "$EFL_efdata.intro3",
 					"htmlData": {
 						"style": {
 							"[stextbox1].outerContainer": {
 								"text-align": "center",
 								"user-select": "none",
 								"font-family": "Pangolin",
-								"font-size": "35px",
+								"font-size": "35pt",
 								"border-radius": "10px",
 								"height": "365px",
 								"width": "724px",
@@ -82,20 +82,20 @@
 								"color": "white"
 							}
 						},
-						"html": "\n        <p>This procedure is called\n            <br>\n            <br> the control of variables strategy or\n            <br>\n            <br> vary one thing at a time. </p>\n    "
+						"html": "\n    "
 					}
 				},
 				{
 					"id": "D",
-					"src": "$$EFX.html_text4",
-					"xname": "STextBox1",
+					"src": "$$EFX.html_text",
+					"datasource": "$EFL_efdata.intro4",
 					"htmlData": {
 						"style": {
 							"[stextbox1].outerContainer": {
 								"text-align": "center",
 								"user-select": "none",
 								"font-family": "Pangolin",
-								"font-size": "35px",
+								"font-size": "35pt",
 								"border-radius": "10px",
 								"height": "365px",
 								"width": "724px",
@@ -109,20 +109,20 @@
 								"color": "white"
 							}
 						},
-						"html": "\n        <p>TED is a computer tutor.\n            <br>\n            <br> Like a real teacher, TED provides\n            <br> instruction and feedback. </p>\n    "
+						"html": "\n    "
 					}
 				},
 				{
 					"id": "E",
-					"src": "$$EFX.html_text5",
-					"xname": "STextBox1",
+					"src": "$$EFX.html_text",
+					"datasource": "$EFL_efdata.intro5",
 					"htmlData": {
 						"style": {
 							"[stextbox1].outerContainer": {
 								"text-align": "center",
 								"user-select": "none",
 								"font-family": "Pangolin",
-								"font-size": "35px",
+								"font-size": "35pt",
 								"border-radius": "10px",
 								"height": "365px",
 								"width": "724px",
@@ -136,20 +136,20 @@
 								"color": "white"
 							}
 						},
-						"html": "\n        <p>\n            <span id=\"s1\">\n                <img src=\"EFMod_TEDIntro\\EFdata\\images\\check1.png\"> Correct answers advance.\n            </span>\n\n            <span id=\"s2\" style=\"visibility: hidden;\">\n                <br>\n                <br>\n                <img src=\"EFMod_TEDIntro\\EFdata\\images\\wrong1.png\"> Incorrect answers\n                    <br> extra help &amp; more practice.</span>\n        </p>\n    "
+						"html": "\n    "
 					}
 				},
 				{
 					"id": "F",
-					"src": "$$EFX.html_text6",
-					"xname": "STextBox1",
+					"src": "$$EFX.html_text",
+					"datasource": "$EFL_efdata.intro6",
 					"htmlData": {
 						"style": {
 							"[stextbox1].outerContainer": {
 								"text-align": "center",
 								"user-select": "none",
 								"font-family": "Pangolin",
-								"font-size": "35px",
+								"font-size": "35pt",
 								"border-radius": "10px",
 								"height": "365px",
 								"width": "724px",
@@ -163,20 +163,20 @@
 								"color": "white"
 							}
 						},
-						"html": "\n        <p>\n            <span id=\"s1\">\n                <img src=\"EFMod_TEDIntro\\EFdata\\images\\arrow1.png\">\n                    <br> Sometimes you go \"backwards\"\n                    <br> and repeat questions.</span>\n            <br>\n            <br>\n            <span id=\"s2\">TED has determined you\n                <br> might need more practice.</span>\n        </p>\n    "
+						"html": "\n    "
 					}
 				},
 				{
 					"id": "G",
-					"src": "$$EFX.html_text7",
-					"xname": "STextBox1",
+					"src": "$$EFX.html_text",
+					"datasource": "$EFL_efdata.intro7",
 					"htmlData": {
 						"style": {
 							"[stextbox1].outerContainer": {
 								"text-align": "center",
 								"user-select": "none",
 								"font-family": "Pangolin",
-								"font-size": "35px",
+								"font-size": "35pt",
 								"border-radius": "10px",
 								"height": "365px",
 								"width": "724px",
@@ -190,20 +190,20 @@
 								"color": "white"
 							}
 						},
-						"html": "\n        <p>\n            <span id=\"s1\">Your answers</span>\n            <br>\n            <span id=\"s2\">to its questions</span>\n        </p>\n    "
+						"html": "\n    "
 					}
 				},
 				{
 					"id": "H",
-					"src": "$$EFX.html_text8",
-					"xname": "STextBox1",
+					"src": "$$EFX.html_text",
+					"datasource": "$EFL_efdata.intro8",
 					"htmlData": {
 						"style": {
 							"[stextbox1].outerContainer": {
 								"text-align": "center",
 								"user-select": "none",
 								"font-family": "Pangolin",
-								"font-size": "35px",
+								"font-size": "35pt",
 								"border-radius": "10px",
 								"height": "365px",
 								"width": "724px",
@@ -214,24 +214,23 @@
 								"vertical-align": "middle"
 							},
 							"[stextbox1] p": {
-								"line-height": "1.7em",
 								"color": "white"
 							}
 						},
-						"html": "\n        <p>\n            It's important to make sure\n            <br> you understand\n            <br> what each question is asking\n            <br> &amp; to answer carefully.</p>\n    "
+						"html": "\n    "
 					}
 				},
 				{
 					"id": "I",
-					"src": "$$EFX.html_text9",
-					"xname": "STextBox1",
+					"src": "$$EFX.html_text",
+					"datasource": "$EFL_efdata.intro9",
 					"htmlData": {
 						"style": {
 							"[stextbox1].outerContainer": {
 								"text-align": "center",
 								"user-select": "none",
 								"font-family": "Pangolin",
-								"font-size": "40px",
+								"font-size": "35pt",
 								"border-radius": "10px",
 								"height": "365px",
 								"width": "724px",
@@ -242,16 +241,62 @@
 								"vertical-align": "middle"
 							},
 							"[stextbox1] p": {
-								"line-height": "1.7em",
 								"color": "white"
 							}
 						},
-						"html": "\n        <p>\n            Let's Begin!</p>\n    "
+						"html": "\n    "
 					}
 				}
 			]
 		},
 		"efinput": {},
-		"eftable": {}
+		"eftable": {},
+		"efdata": {
+			"intro1": {
+				"textdata": {
+					"html": "<p><span style=\"font-size:2em\">Welcome!</span><br><br> You are about to begin the TED Tutor.</p>"
+				}
+			},
+			"intro2": {
+				"textdata": {
+					"html": "<p>With it, you will learn a procedure<br><br> for how to design<br><br> good science experiments.</p>"
+				}
+			},
+			"intro3": {
+				"textdata": {
+					"html": "<p>This procedure is called<br><br> the control of variables strategy or<br><br> vary one thing at a time. </p>"
+				}
+			},
+			"intro4": {
+				"textdata": {
+					"html": "<p>TED is a computer tutor.<br><br> Like a real teacher, TED provides<br> instruction and feedback. </p>"
+				}
+			},
+			"intro5": {
+				"textdata": {
+					"html": "<p><span id=\"s1\"><img src=\"EFMod_TEDIntro/EFdata/images/check1.png\"> Correct answers advance.</span><span id=\"s2\"  style=\"visibility: hidden;\"><br><br><img src=\"EFMod_TEDIntro/EFdata/images/wrong1.png\"> Incorrect answers<br> extra help & more practice.</span></p>"
+				}
+			},
+			"intro6": {
+				"textdata": {
+					"html": "<p><span id=\"s1\"><img src=\"EFMod_TEDIntro/EFdata/images/arrow1.png\"><br> Sometimes you go \"backwards\"<br> and repeat questions.</span><br><br><span id=\"s2\">TED has determined you<br> might need more practice.</span></p>"
+				}
+			},
+			"intro7": {
+				"textdata": {
+					"html": "<p><span id=\"s1\">Your answers</span><br><span id=\"s2\">to its questions</span></p>"
+				}
+			},
+			"intro8": {
+				"textdata": {
+					"html": "<p>It's important to make sure<br> you understand<br> what each question is asking<br> & to answer carefully.</p>"
+				}
+			},
+			"intro9": {
+				"textdata": {
+					"html": "<p>Let's Begin!</p>"
+				}
+			}
+		}
 	}
 }
