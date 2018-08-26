@@ -4,8 +4,6 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
 
     export class SScene1 {
 
-        $var1:string = "valname2";
-
         // This is a special signature to avoid the typescript error "because <type> has no index signature."
         // on syntax like => this[<element name>]
         // 
@@ -56,11 +54,6 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
         public $nodeAction(actionId:string) : void {
             
             switch(actionId) {
-                case "ENTER1":
-                    this.setButtonBehavior('incrAnimation'); 
-                    this.fComplete=false; 
-                    this.updateNav(); 
-                    break;
             }
         }
         

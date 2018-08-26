@@ -33,6 +33,7 @@ var EFTut_Suppl;
             $logScene() { }
             $rewindScene() { }
             $resolveTemplate(templID) { }
+            $handleEvent() { }
             $nodePreEnter(nodeId) { }
             $nodePreExit(nodeId) { }
             $nodeAction(actionId) { }
@@ -42,6 +43,12 @@ var EFTut_Suppl;
             }
             $cuePoints(id) { }
             $timedEvents(id) { }
+            $updateNav() {
+                if (!this.sceneState.sceneComplete)
+                    this.tutorDoc.TutAutomator.SNavigator._instance.enableNext(false);
+                else
+                    this.tutorDoc.TutAutomator.SNavigator._instance.enableNext(true);
+            }
         }
         EFMod_TEDIntro.$Common = $Common;
     })(EFMod_TEDIntro = EFTut_Suppl.EFMod_TEDIntro || (EFTut_Suppl.EFMod_TEDIntro = {}));
@@ -116,9 +123,6 @@ var EFTut_Suppl;
     var EFMod_TEDIntro;
     (function (EFMod_TEDIntro) {
         class SScene1 {
-            constructor() {
-                this.$var1 = "valname2";
-            }
             $onCreateScene() {
                 this.STeacher.poseTeacher("pose1");
             }
@@ -143,11 +147,6 @@ var EFTut_Suppl;
             }
             $nodeAction(actionId) {
                 switch (actionId) {
-                    case "ENTER1":
-                        this.setButtonBehavior('incrAnimation');
-                        this.fComplete = false;
-                        this.updateNav();
-                        break;
                 }
             }
             $nodeConstraint(constrainId) {

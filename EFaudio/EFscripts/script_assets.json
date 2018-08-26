@@ -10,7 +10,7 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "Welcome. You are about to begin the TED Tutor.",
 								"cues": [],
 								"duration": 2563.6666666666665,
@@ -24,7 +24,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track2": {
@@ -36,7 +38,7 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "With it, you will learn a three-step procedure for how to design good science experiments.",
 								"cues": [],
 								"duration": 4322.625,
@@ -50,7 +52,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track3": {
@@ -62,7 +66,7 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "This procedure is called the control of variables strategy or vary one thing at a time.",
 								"cues": [],
 								"duration": 4662.541666666667,
@@ -76,7 +80,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track4": {
@@ -88,7 +94,7 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "TED is a computer tutor. Like a real teacher, TED provides instruction and feedback.",
 								"cues": [],
 								"duration": 5008.625,
@@ -102,7 +108,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track5": {
@@ -114,10 +122,10 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "Also like a real teacher, TED looks at your answers to see how well you are learning how to design good experiments.",
 								"cues": [],
-								"duration": 6088.791666666667,
+								"duration": 5701.5,
 								"trim": 0,
 								"volume": 1
 							}
@@ -128,7 +136,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track6": {
@@ -140,7 +150,7 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "If you answer TED's questions correctly, it will assume that you have learned the material and are ready to advance.",
 								"cues": [],
 								"duration": 5550.625,
@@ -154,7 +164,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track7": {
@@ -166,10 +178,10 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "If you answered TED's questions incorrectly, it will assume that you need extra help and more practice.",
 								"cues": [],
-								"duration": 5390.916666666667,
+								"duration": 5125.791666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -180,7 +192,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track8": {
@@ -192,7 +206,7 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "You will move through TED's instruction at your own pace.",
 								"cues": [],
 								"duration": 2757.125,
@@ -206,7 +220,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track9": {
@@ -218,10 +234,10 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "You may find that sometimes you go backwards and repeat questions.",
 								"cues": [],
-								"duration": 3531.0416666666665,
+								"duration": 3395.4583333333335,
 								"trim": 0,
 								"volume": 1
 							}
@@ -232,7 +248,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track10": {
@@ -244,10 +262,10 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "This is because TED has determined, based on your answers, that you need more practice before you can move forward.",
 								"cues": [],
-								"duration": 5817.833333333333,
+								"duration": 5876.583333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -258,7 +276,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track11": {
@@ -270,10 +290,10 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "The only way for TED to know how much you are learning is through your answers to its questions.",
 								"cues": [],
-								"duration": 4677.625,
+								"duration": 4411.291666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -284,7 +304,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track12": {
@@ -296,10 +318,10 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "For this reason, it's important to make sure you understand what each question is asking and to answer carefully.",
 								"cues": [],
-								"duration": 5315.083333333333,
+								"duration": 5627.833333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -310,7 +332,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track13": {
@@ -322,10 +346,10 @@
 						{
 							"templateVar": "__novar",
 							"__novar": {
-								"id": "0",
+								"fileid": "0",
 								"SSML": "Let's begin.",
 								"cues": [],
-								"duration": 838.7083333333334,
+								"duration": 924.7916666666666,
 								"trim": 0,
 								"volume": 1
 							}
@@ -336,7 +360,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			}
 		}

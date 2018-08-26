@@ -26,12 +26,14 @@ declare namespace EFTut_Suppl.EFMod_TEDIntro {
         $logScene(): void;
         $rewindScene(): void;
         $resolveTemplate(templID: string): void;
+        $handleEvent(): void;
         $nodePreEnter(nodeId: string): void;
         $nodePreExit(nodeId: string): void;
         $nodeAction(actionId: string): void;
         $nodeConstraint(constrainId: string): boolean;
         $cuePoints(id: string): void;
         $timedEvents(id: string): void;
+        $updateNav(): void;
     }
 }
 declare namespace EFTut_Suppl.EFMod_TEDIntro {
@@ -61,7 +63,6 @@ declare namespace EFTut_Suppl.EFMod_TEDIntro {
 }
 declare namespace EFTut_Suppl.EFMod_TEDIntro {
     class SScene1 {
-        $var1: string;
         [key: string]: any;
         $onCreateScene(): void;
         $onEnterScene(): void;

@@ -38,6 +38,8 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
 
         public $resolveTemplate(templID:string) { /* empty */  }
 
+        public $handleEvent() { /* empty */  }           
+
         //***********************************************
         // Scene graph methods
         //
@@ -62,5 +64,18 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
 
         public $timedEvents(id:string) { /* empty */  }
 
+        //***********************************************
+        // Scene State methods
+        //
+
+		public $updateNav() : void {
+
+			// Update the Navigation
+			//
+			if(!this.sceneState.sceneComplete)
+				this.tutorDoc.TutAutomator.SNavigator._instance.enableNext(false);		
+			else	
+                this.tutorDoc.TutAutomator.SNavigator._instance.enableNext(true);		
+		}
     }   
 }

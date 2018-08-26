@@ -12,7 +12,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track2": {
@@ -26,7 +28,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track3": {
@@ -40,7 +44,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track4": {
@@ -54,7 +60,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track5": {
@@ -68,7 +76,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track6": {
@@ -82,7 +92,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track7": {
@@ -96,7 +108,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track8": {
@@ -110,7 +124,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track9": {
@@ -124,7 +140,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track10": {
@@ -138,7 +156,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track11": {
@@ -152,7 +172,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track12": {
@@ -166,7 +188,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			},
 			"track13": {
@@ -180,7 +204,9 @@
 					"trim": [
 						0
 					],
-					"volume": 1
+					"volume": [
+						1
+					]
 				}
 			}
 		}
