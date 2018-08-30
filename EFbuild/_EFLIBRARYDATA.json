@@ -253,49 +253,31 @@
 		"eftable": {},
 		"efdata": {
 			"intro1": {
-				"textdata": {
-					"html": "<p><span style=\"font-size:2em\">Welcome!</span><br><br> You are about to begin the TED Tutor.</p>"
-				}
+				"html": "<p><span style=\"font-size:2em\">Welcome!</span><br><br> You are about to begin the TED Tutor.</p>"
 			},
 			"intro2": {
-				"textdata": {
-					"html": "<p>With it, you will learn a procedure<br><br> for how to design<br><br> good science experiments.</p>"
-				}
+				"html": "<p>With it, you will learn a procedure<br><br> for how to design<br><br> good science experiments.</p>"
 			},
 			"intro3": {
-				"textdata": {
-					"html": "<p>This procedure is called<br><br> the control of variables strategy or<br><br> vary one thing at a time. </p>"
-				}
+				"html": "<p>This procedure is called<br><br> the control of variables strategy or<br><br> vary one thing at a time. </p>"
 			},
 			"intro4": {
-				"textdata": {
-					"html": "<p>TED is a computer tutor.<br><br> Like a real teacher, TED provides<br> instruction and feedback. </p>"
-				}
+				"html": "<p>TED is a computer tutor.<br><br> Like a real teacher, TED provides<br> instruction and feedback. </p>"
 			},
 			"intro5": {
-				"textdata": {
-					"html": "<p><span id=\"s1\"><img src=\"EFMod_TEDIntro/EFdata/images/check1.png\"> Correct answers advance.</span><span id=\"s2\"  style=\"visibility: hidden;\"><br><br><img src=\"EFMod_TEDIntro/EFdata/images/wrong1.png\"> Incorrect answers<br> extra help & more practice.</span></p>"
-				}
+				"html": "<p><span id=\"s1\"><img src=\"EFMod_TEDIntro/EFdata/images/check1.png\"> Correct answers advance.</span><span id=\"s2\"  style=\"visibility: hidden;\"><br><br><img src=\"EFMod_TEDIntro/EFdata/images/wrong1.png\"> Incorrect answers<br> extra help & more practice.</span></p>"
 			},
 			"intro6": {
-				"textdata": {
-					"html": "<p><span id=\"s1\"><img src=\"EFMod_TEDIntro/EFdata/images/arrow1.png\"><br> Sometimes you go \"backwards\"<br> and repeat questions.</span><br><br><span id=\"s2\">TED has determined you<br> might need more practice.</span></p>"
-				}
+				"html": "<p><span id=\"s1\"><img src=\"EFMod_TEDIntro/EFdata/images/arrow1.png\"><br> Sometimes you go \"backwards\"<br> and repeat questions.</span><br><br><span id=\"s2\">TED has determined you<br> might need more practice.</span></p>"
 			},
 			"intro7": {
-				"textdata": {
-					"html": "<p><span id=\"s1\">Your answers</span><br><span id=\"s2\">to its questions</span></p>"
-				}
+				"html": "<p><span id=\"s1\">Your answers</span><br><span id=\"s2\">to its questions</span></p>"
 			},
 			"intro8": {
-				"textdata": {
-					"html": "<p>It's important to make sure<br> you understand<br> what each question is asking<br> & to answer carefully.</p>"
-				}
+				"html": "<p>It's important to make sure<br> you understand<br> what each question is asking<br> & to answer carefully.</p>"
 			},
 			"intro9": {
-				"textdata": {
-					"html": "<p>Let's Begin!</p>"
-				}
+				"html": "<p>Let's Begin!</p>"
 			}
 		}
 	}
