@@ -29,6 +29,8 @@ var EFTut_Suppl;
             $onEnterScene() { }
             $preExitScene() { }
             $onExitScene() { }
+            $preShowScene() { }
+            $preHideScene() { }
             $demoInitScene() { }
             $logScene() { }
             $rewindScene() { }

@@ -22,6 +22,8 @@ declare namespace EFTut_Suppl.EFMod_TEDIntro {
         $onEnterScene(): void;
         $preExitScene(): void;
         $onExitScene(): void;
+        $preShowScene(): void;
+        $preHideScene(): void;
         $demoInitScene(): void;
         $logScene(): void;
         $rewindScene(): void;

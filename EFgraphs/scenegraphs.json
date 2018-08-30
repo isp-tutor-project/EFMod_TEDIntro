@@ -12,7 +12,7 @@
 			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
 						
 			"root":{"COMMENT":"Welcome...",
-					"type":"node",
+					"type":"moduleRef",
 					"subtype":"module", 
 					 "name":"NOOP",
 					 "edges":
@@ -50,7 +50,7 @@
 			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
 						
 			"root":{"COMMENT":"Welcome...",
-					"type":"node",
+					"type":"moduleRef",
 					"subtype":"module", 
 					"name":"INTRO1",
 					"edges":

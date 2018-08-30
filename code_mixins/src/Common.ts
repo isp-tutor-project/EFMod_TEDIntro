@@ -30,6 +30,9 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
         public $preExitScene() { /* empty */  }
         public $onExitScene()  { /* empty */  }
 
+        public $preShowScene() { /* empty */  }        
+        public $preHideScene() { /* empty */  }
+
         public $demoInitScene() { /* empty */  }
 
         public $logScene() { /* empty */  }
