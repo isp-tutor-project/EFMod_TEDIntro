@@ -13,7 +13,7 @@
 								"fileid": "0",
 								"SSML": "Welcome. You are about to begin the TED Tutor.",
 								"cues": [],
-								"duration": 2755.9166666666665,
+								"duration": 2500.9583333333335,
 								"trim": 0,
 								"volume": 1
 							}
@@ -41,7 +41,7 @@
 								"fileid": "0",
 								"SSML": "With it, you will learn a three-step procedure for how to design good science experiments.",
 								"cues": [],
-								"duration": 4772.958333333333,
+								"duration": 4741.291666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -69,7 +69,7 @@
 								"fileid": "0",
 								"SSML": "This procedure is called the control of variables strategy or vary one thing at a time.",
 								"cues": [],
-								"duration": 4764.958333333333,
+								"duration": 4712.416666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -97,7 +97,7 @@
 								"fileid": "0",
 								"SSML": "TED is a computer tutor. Like a real teacher, TED provides instruction and feedback.",
 								"cues": [],
-								"duration": 5216.5,
+								"duration": 4962.708333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -125,7 +125,7 @@
 								"fileid": "0",
 								"SSML": "Also like a real teacher, TED looks at your answers to see how well you are learning how to design good experiments.",
 								"cues": [],
-								"duration": 6056.5,
+								"duration": 6041.125,
 								"trim": 0,
 								"volume": 1
 							}
@@ -153,7 +153,7 @@
 								"fileid": "0",
 								"SSML": "If you answer TED's questions correctly, it will assume that you have learned the material and are ready to advance.",
 								"cues": [],
-								"duration": 5647.5,
+								"duration": 5506.291666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -181,7 +181,7 @@
 								"fileid": "0",
 								"SSML": "If you answered TED's questions incorrectly, it will assume that you need extra help and more practice.",
 								"cues": [],
-								"duration": 5125.791666666667,
+								"duration": 5281.041666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -209,7 +209,7 @@
 								"fileid": "0",
 								"SSML": "You will move through TED's instruction at your own pace.",
 								"cues": [],
-								"duration": 2635.5416666666665,
+								"duration": 2561.8333333333335,
 								"trim": 0,
 								"volume": 1
 							}
@@ -237,7 +237,7 @@
 								"fileid": "0",
 								"SSML": "You may find that sometimes you go backwards and repeat questions.",
 								"cues": [],
-								"duration": 3395.4583333333335,
+								"duration": 3411.5,
 								"trim": 0,
 								"volume": 1
 							}
@@ -265,7 +265,7 @@
 								"fileid": "0",
 								"SSML": "This is because TED has determined, based on your answers, that you need more practice before you can move forward.",
 								"cues": [],
-								"duration": 5490.666666666667,
+								"duration": 5804.375,
 								"trim": 0,
 								"volume": 1
 							}
@@ -293,7 +293,7 @@
 								"fileid": "0",
 								"SSML": "The only way for TED to know how much you are learning is through your answers to its questions.",
 								"cues": [],
-								"duration": 4582.125,
+								"duration": 4330.625,
 								"trim": 0,
 								"volume": 1
 							}
@@ -321,7 +321,7 @@
 								"fileid": "0",
 								"SSML": "For this reason, it's important to make sure you understand what each question is asking and to answer carefully.",
 								"cues": [],
-								"duration": 5641.416666666667,
+								"duration": 5627.833333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -349,7 +349,7 @@
 								"fileid": "0",
 								"SSML": "Let's begin.",
 								"cues": [],
-								"duration": 922.2916666666666,
+								"duration": 859.9583333333334,
 								"trim": 0,
 								"volume": 1
 							}
