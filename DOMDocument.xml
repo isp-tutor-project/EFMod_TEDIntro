@@ -7,7 +7,7 @@
           <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
-          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b7c391b-000003e3"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b7c391b-000003e3" isExpanded="true"/>
           <DOMFolderItem name="_Tutor Global Scenes" itemID="5b77454e-00000379" isExpanded="true"/>
           <DOMFolderItem name="Assets" itemID="5b632aef-00000431" isExpanded="true"/>
           <DOMFolderItem name="Assets/CClassroomBackgroundAssets" itemID="5a295d90-000000b2"/>
@@ -32,11 +32,12 @@
           <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
           <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
           <Include href="_HTMLControls/TC_TObject__BlueOval.xml" loadImmediate="false" itemID="5b50c6ff-0000031f" lastModified="1532020479"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/TC_TObject__backMask.xml" loadImmediate="false" itemID="5b6f3c37-000002d0" lastModified="1534016567"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/TC_TObject__NavBackground.xml" loadImmediate="false" itemID="5b6f441f-0000043d" lastModified="1534018591"/>
-          <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1534543279"/>
+          <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1537463696"/>
           <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
-          <Include href="_Tutor Global Scenes/TC_TNavPanel__Navigator.xml" loadImmediate="false" itemID="5b77453d-00000374" lastModified="1534867783"/>
+          <Include href="_Tutor Global Scenes/TC_TNavPanel__Navigator.xml" loadImmediate="false" itemID="5b77453d-00000374" lastModified="1537463679"/>
           <Include href="Assets/CClassroomBackgroundAssets/board.xml" loadImmediate="false" itemID="5a295d22-00000082" lastModified="1512660259"/>
           <Include href="Assets/CClassroomBackgroundAssets/CChairsCombined.xml" loadImmediate="false" itemID="5b227092-00000336" lastModified="1533153388"/>
           <Include href="Assets/CClassroomBackgroundAssets/chairbolt.xml" loadImmediate="false" itemID="5b226d32-00000324" lastModified="1528982834"/>
@@ -96,7 +97,7 @@
           <Include href="Assets/TeacherAssets/GirlAssets/shirtpointing.xml" loadImmediate="false" itemID="5a395747-000000e4" lastModified="1528984597"/>
           <Include href="Assets/TeacherAssets/GirlAssets/shoes.xml" loadImmediate="false" itemID="5a395747-000000fe" lastModified="1512076504"/>
           <Include href="Scenes/TC_TScene__EndCloak.xml" loadImmediate="false" itemID="5b6378be-00000669" lastModified="1533679464"/>
-          <Include href="Scenes/TC_TScene__TedIntro.xml" loadImmediate="false" itemID="5b6215e6-000004a5" lastModified="1533849988"/>
+          <Include href="Scenes/TC_TScene__TedIntro.xml" loadImmediate="false" itemID="5b6215e6-000004a5" lastModified="1537463634"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
@@ -128,7 +129,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="_Tutor Global Scenes/TC_TNavPanel__Navigator" selected="true">
+                                        <DOMSymbolInstance libraryItemName="_Tutor Global Scenes/TC_TNavPanel__Navigator">
                                              <matrix>
                                                   <Matrix tx="0.25" ty="-1.05"/>
                                              </matrix>

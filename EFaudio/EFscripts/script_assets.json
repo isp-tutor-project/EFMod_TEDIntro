@@ -13,7 +13,7 @@
 								"fileid": "0",
 								"SSML": "Welcome. You are about to begin the TED Tutor.",
 								"cues": [],
-								"duration": 2500.9583333333335,
+								"duration": 2755.125,
 								"trim": 0,
 								"volume": 1
 							}
@@ -41,7 +41,7 @@
 								"fileid": "0",
 								"SSML": "With it, you will learn a three-step procedure for how to design good science experiments.",
 								"cues": [],
-								"duration": 4741.291666666667,
+								"duration": 4374.958333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -97,7 +97,7 @@
 								"fileid": "0",
 								"SSML": "TED is a computer tutor. Like a real teacher, TED provides instruction and feedback.",
 								"cues": [],
-								"duration": 4962.708333333333,
+								"duration": 5223.083333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -125,7 +125,7 @@
 								"fileid": "0",
 								"SSML": "Also like a real teacher, TED looks at your answers to see how well you are learning how to design good experiments.",
 								"cues": [],
-								"duration": 6041.125,
+								"duration": 5647.041666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -209,7 +209,7 @@
 								"fileid": "0",
 								"SSML": "You will move through TED's instruction at your own pace.",
 								"cues": [],
-								"duration": 2561.8333333333335,
+								"duration": 2736.375,
 								"trim": 0,
 								"volume": 1
 							}

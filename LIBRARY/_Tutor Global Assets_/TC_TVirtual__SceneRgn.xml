@@ -1,15 +1,24 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Tutor Global Assets_/TC_TVirtual__SceneRgn" itemID="5b7745af-0000037b" sourceFlashFilepath="../EFMod_TEDInstr/EFMod_TEDInstr.xfl" sourceLibraryItemHRef="_Tutor Global Assets_/TC_TVirtual__SceneRgn" sourceLastModified="1534543279" lastModified="1534543279" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Tutor Global Assets_/TC_TVirtual__SceneRgn" itemID="5b7745af-0000037b" sourceFlashFilepath="../EFMod_TEDInstr/EFMod_TEDInstr.xfl" sourceLibraryItemHRef="_Tutor Global Assets_/TC_TVirtual__SceneRgn" sourceLastModified="1534543279" lastModified="1537463696" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
   <timeline>
     <DOMTimeline name="TC_TVirtual__SceneRgn">
       <layers>
-        <DOMLayer name="region" color="#4FFF4F" autoNamed="false">
+        <DOMLayer name="region" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements/>
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/contentFrame">
+                  <matrix>
+                    <Matrix tx="93.5" ty="56.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="866.5" y="523.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="background" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="background" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

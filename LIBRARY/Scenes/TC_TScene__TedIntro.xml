@@ -1,15 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TedIntro" itemID="5b6215e6-000004a5" lastModified="1533849988" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TedIntro" itemID="5b6215e6-000004a5" lastModified="1537463634" lastUniqueIdentifier="1">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TScene__TedIntro">
       <layers>
-        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+        <DOMLayer name="Layer_3" color="#FF800A">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TTeacher__Teacher1" name="STeacher" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TTeacher__Teacher1" name="STeacher">
                   <matrix>
                     <Matrix tx="1338.3" ty="337.2"/>
                   </matrix>
@@ -103,6 +103,19 @@
                   </matrix>
                   <transformationPoint>
                     <Point y="3.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
