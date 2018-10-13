@@ -141,7 +141,6 @@ export class TTeacher extends TObject
         else {
             this.swapPose(newPose);
         }
-
     }
             
 
