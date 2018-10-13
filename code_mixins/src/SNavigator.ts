@@ -15,9 +15,10 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
         //
         
         public $preCreateScene() {
-            this.connectNavButton(CONST.NEXTSCENE, "Snext");
-            this.connectNavButton(CONST.PREVSCENE, "Sback");
-            this.setNavigationTarget(CONST.NAVSCENE);
+
+            // Next button only - navigate scene tracks
+            // 
+            this.setNavMode(CONST.NAVBOTH, CONST.NAVSCENE);
         }
 
         public $onEnterScene() {
