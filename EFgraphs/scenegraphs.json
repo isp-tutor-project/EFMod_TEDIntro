@@ -38,6 +38,35 @@
 	},
 	
 	
+	"SSceneStart":
+	{	
+		"COMMENT":"Today we're going to...",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },	
 
 	"SScene1":
 	{	
@@ -70,21 +99,19 @@
 				"reuse":true,
 				"actiontracks":		
 				[
-					{"trackname":"track1",  "autostep":true, "stepdelay":1500, "features":""},
-					{"trackname":"track2",  "autostep":true, "stepdelay":1500, "features":""},
-					{"trackname":"track3",  "autostep":true, "stepdelay":1500, "features":""},
-					{"trackname":"track4",  "autostep":true, "stepdelay":500, "features":""},
-					{"trackname":"track5",  "autostep":true, "stepdelay":1500, "features":""},
-					{"trackname":"track6",  "autostep":true, "stepdelay":500, "features":""},
-					{"trackname":"track7",  "autostep":true, "stepdelay":1500, "features":""},
+					{"trackname":"track1",  "autostep":false, "stepdelay":1500, "features":""},
+					{"trackname":"track2",  "autostep":false, "stepdelay":1500, "features":""},
+					{"trackname":"track3",  "autostep":false, "stepdelay":1500, "features":""},
+					{"trackname":"track4",  "autostep":true,  "stepdelay":500, "features":""},
+					{"trackname":"track5",  "autostep":false, "stepdelay":1500, "features":""},
+					{"trackname":"track6",  "autostep":true,  "stepdelay":500, "features":""},
+					{"trackname":"track7",  "autostep":false, "stepdelay":1500, "features":""},
 					{"trackname":"track8",  "autostep":true, "stepdelay":500, "features":""},
 					{"trackname":"track9",  "autostep":true, "stepdelay":250, "features":""},
-					{"trackname":"track10", "autostep":true, "stepdelay":1500, "features":""},
-					{"trackname":"track11", "autostep":true, "stepdelay":1500, "features":""},
-					{"trackname":"track12", "autostep":true, "stepdelay":1500, "features":""},
-                    {"trackname":"track13", "autostep":true, "stepdelay":1500, "features":""}
-                    
-
+					{"trackname":"track10", "autostep":false, "stepdelay":1500, "features":""},
+					{"trackname":"track11", "autostep":true, "stepdelay":500, "features":""},
+					{"trackname":"track12", "autostep":false, "stepdelay":1500, "features":""},
+                    {"trackname":"track13", "autostep":false, "stepdelay":1500, "features":""}
 				]
             },
             "NEXTSCENE":{

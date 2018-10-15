@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TedIntro" itemID="5b6215e6-000004a5" lastModified="1537463634" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__TedIntro" itemID="5b6215e6-000004a5" linkageExportForAS="true" linkageClassName="TC_TScene__TedIntro" lastModified="1539552331" lastUniqueIdentifier="1">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -27,10 +27,10 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="STextBox1">
                   <matrix>
-                    <Matrix a="8.14199829101563" d="3.94149780273438" tx="563.75" ty="146.95"/>
+                    <Matrix a="7.46601867675781" d="3.0552978515625" tx="631.7" ty="149.7"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="50.05" y="49.85"/>
+                    <Point x="50.05" y="49.9"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -113,7 +113,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
                   <transformationPoint>
                     <Point x="960" y="600"/>
                   </transformationPoint>

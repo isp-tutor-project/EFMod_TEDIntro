@@ -2,6 +2,9 @@
     "_LIBRARY": {
         "eflist": {},
         "eftext": {
+            "SbreadCrumbs": {
+                "src": "$$EFX.html_crumbText"
+            },
             "STextBox1": [
                 {
                     "id": "A",

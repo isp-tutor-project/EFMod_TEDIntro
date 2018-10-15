@@ -15,6 +15,7 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
         //
         
         public $onCreateScene() { 
+            this.setSceneValue("complete", false);      
             this.STeacher.poseTeacher("pose1");
         }
 
@@ -22,6 +23,9 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
         }
         
         public $preEnterScene() {
+            // Next button only - navigate scene tracks
+            // 
+            this.setNavMode(CONST.NAVNEXT, CONST.NAVSCENE);
         }
 
         public $preExitScene() {
@@ -74,11 +78,12 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
+                            this.setNavMode(CONST.NAVNEXT, CONST.NAVSCENE);
+                            this.setSceneValue("complete", false);
                             this.STextBox1.setContentByIndex(1);
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
+                            this.setSceneValue("complete", true);    
                             break;
                     }
                     break;
@@ -87,12 +92,13 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
+                            this.setNavMode(CONST.NAVBOTH, CONST.NAVSCENE);
+                            this.setSceneValue("complete", false);
                             this.STextBox1.setContentByIndex(2);
                             this.STeacher.poseTeacher("pose2");
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
+                            this.setSceneValue("complete", true);    
                             break;
                     }
                     break;
@@ -101,12 +107,12 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
+                            this.setSceneValue("complete", false);
                             this.STextBox1.setContentByIndex(3);
                             this.STeacher.poseTeacher("pose3");
                             break;
-                        case "$end":
-                            console.log("executing CuePoint END");
+                        case "$end":                            
+                            this.setSceneValue("complete", true);    
                             break;
                     }
                     break;
@@ -115,11 +121,10 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
+                            this.setSceneValue("complete", false);
                             this.STextBox1.setContentByIndex(4);
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
                             break;
                     }
                     break;
@@ -128,11 +133,10 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
                             this.STeacher.poseTeacher("pose2");
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
+                            this.setSceneValue("complete", true);    
                             break;
                     }
                     break;
@@ -141,11 +145,10 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
+                            this.setSceneValue("complete", false);
                             this.STextBox1.setContentByIndex(5);
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
                             break;
                     }
                     break;
@@ -154,12 +157,11 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
                             this.STextBox1.showSpan("s2");
                             this.STeacher.poseTeacher("pose1");
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
+                            this.setSceneValue("complete", true);    
                             break;
                     }
                     break;
@@ -168,11 +170,10 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
+                            this.setSceneValue("complete", false);
                             this.STextBox1.setContentByIndex(6);
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
                             break;
                     }
                     break;
@@ -181,11 +182,9 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
                             this.STeacher.poseTeacher("pose3");
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
                             break;
                     }
                     break;
@@ -194,11 +193,10 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
                             this.STeacher.poseTeacher("pose1");
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
+                            this.setSceneValue("complete", true);    
                             break;
                     }
                     break;
@@ -207,11 +205,10 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
+                            this.setSceneValue("complete", false);
                             this.STextBox1.setContentByIndex(7);
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
                             break;
                     }
                     break;
@@ -220,12 +217,11 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
                             this.STextBox1.setContentByIndex(8);
                             this.STeacher.poseTeacher("pose2");
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
+                            this.setSceneValue("complete", true);    
                             break;
                     }
                     break;
@@ -235,11 +231,11 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
                     switch(cueID) {
                         
                         case "$start":
-                            console.log(`Start Cue: ${trackID}`);
+                            this.setSceneValue("complete", false);
                             this.STextBox1.setContentByIndex(9);
                             break;
                         case "$end":
-                            console.log("executing CuePoint END");
+                            this.setSceneValue("complete", true);    
                             break;
                     }
                     break;
@@ -247,7 +243,36 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
             }
         }
 
-        public $timedEvents(id:string) {
+        //***********************************************
+        // Scene State methods
+        //
+
+        public $queryFinished() : boolean {             
+
+            let result:boolean = this.getSceneValue("complete"); 
+
+            return  result; 
+        }
+
+
+        public $onAction(target:string) {         
+            
+            switch(target) {
+            }
+        }
+
+
+        public $onSelect(target:string) {            
+
+            switch(target) {
+            }
+        }
+
+
+        public $onClick(target:string) {            
+
+            switch(target) {
+            }
         }
     }
 }

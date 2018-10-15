@@ -1,49 +1,65 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Tutor Global Scenes/TC_TNavPanel__Navigator" itemID="5b77453d-00000374" lastModified="1537463679">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Tutor Global Scenes/TC_TNavPanel__Navigator" itemID="5b77452f-00000373" linkageExportForAS="true" linkageClassName="TC_TNavPanel__Navigator" lastModified="1539538621" lastUniqueIdentifier="9">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TNavPanel__Navigator">
       <layers>
-        <DOMLayer name="Snext" color="#FF0000" autoNamed="false">
+        <DOMLayer name="SbreadCrumbs" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/NavPanel Components/TC_TButton__NextButton" name="Snext" symbolType="button">
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="SbreadCrumbs" selected="true">
                   <matrix>
-                    <Matrix tx="1785.1" ty="1086"/>
+                    <Matrix a="8.568603515625" d="0.380401611328125" tx="93.5" ty="8.8"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="114" y="114"/>
+                    <Point x="49.8" y="50.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Sback" color="#669900" autoNamed="false">
+        <DOMLayer name="Snext" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/NavPanel Components/TC_TButton__PrevButton" name="Sback" symbolType="button">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TButton__NextButton" name="Snext" symbolType="button">
                   <matrix>
-                    <Matrix tx="60.4" ty="1086"/>
+                    <Matrix tx="1782.9" ty="1092.05"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="114" y="114"/>
+                    <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+        <DOMLayer name="Sback" color="#009999" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/contentFrame" selected="true">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TButton__PrevButton" name="Sback" symbolType="button">
                   <matrix>
-                    <Matrix tx="93.5" ty="56.65"/>
+                    <Matrix tx="59.5" ty="1092.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Smask3" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TObject__contentFrame3" name="Smask3">
+                  <matrix>
+                    <Matrix tx="93.5" ty="64.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="866.5" y="523.35"/>
@@ -53,23 +69,55 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="SbackMask" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Smask2" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TObject__backMask" name="SbackMask">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TObject__contentFrame2" name="Smask2" selected="true">
                   <matrix>
-                    <Matrix tx="-1" ty="1006.55"/>
+                    <Matrix tx="93.5" ty="64.05"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="450.65" y="97.2"/>
+                    <Point x="866.5" y="523.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Sbackground" color="#009999" autoNamed="false">
+        <DOMLayer name="Smask1" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TObject__contentFrame1" name="Smask1" selected="true">
+                  <matrix>
+                    <Matrix tx="93.5" ty="64.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="866.5" y="523.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Smask0" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TObject__contentFrame0" name="Smask0">
+                  <matrix>
+                    <Matrix tx="93.5" ty="64.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="866.5" y="523.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sbackground" color="#FF800A" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

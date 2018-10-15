@@ -16,9 +16,12 @@ namespace EFTut_Suppl.EFMod_TEDIntro {
         
         public $preCreateScene() {
 
-            // Next button only - navigate scene tracks
+            // By default disable all Navigation - Let scenes decide
             // 
-            this.setNavMode(CONST.NAVBOTH, CONST.NAVSCENE);
+            this.setNavMode(CONST.NAVNONE, CONST.NAVSCENE);
+
+            // Development ONLY !!!!!!!!
+            this.addFeature(CONST.FTR_DEV);
         }
 
         public $onEnterScene() {
