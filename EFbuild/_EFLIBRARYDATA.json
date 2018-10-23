@@ -295,7 +295,7 @@
 			},
 			"intro5": {
 				"htmlData": {
-					"html": "<p><span id=\"s1\"><img src=\"EFMod_TEDIntro/EFdata/images/check1.png\"> Correct answers advance.</span><span id=\"s2\"  style=\"visibility: hidden;\"><br><br><img src=\"EFMod_TEDIntro/EFdata/images/wrong1.png\"> Incorrect answers<br> extra help & more practice.</span></p>"
+					"html": "<p><span id=\"s1\"><img src=\"EFMod_TEDIntro/EFdata/images/check1.png\"> Correct answers:<br>advance.</span><span id=\"s2\"  style=\"visibility: hidden;\"><br><br><img src=\"EFMod_TEDIntro/EFdata/images/wrong1.png\"> Incorrect answers:<br> extra help & more practice</span></p>"
 				}
 			},
 			"intro6": {
