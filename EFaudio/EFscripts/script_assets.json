@@ -13,7 +13,7 @@
 								"fileid": "0",
 								"SSML": "Welcome. You are about to begin the TED Tutor.",
 								"cues": [],
-								"duration": 2789.375,
+								"duration": 2778.2916666666665,
 								"trim": 0,
 								"volume": 1
 							}
@@ -41,7 +41,7 @@
 								"fileid": "0",
 								"SSML": "With it, you will learn a procedure for how to design good science experiments.",
 								"cues": [],
-								"duration": 4019.7083333333335,
+								"duration": 4056.1666666666665,
 								"trim": 0,
 								"volume": 1
 							}
@@ -69,7 +69,7 @@
 								"fileid": "0",
 								"SSML": "This procedure is called the control of variables strategy or vary one thing at a time.",
 								"cues": [],
-								"duration": 4704.75,
+								"duration": 4747.458333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -97,7 +97,7 @@
 								"fileid": "0",
 								"SSML": "TED is a computer tutor. Like a real teacher, TED provides instruction and feedback.",
 								"cues": [],
-								"duration": 5223.208333333333,
+								"duration": 5173.208333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -125,7 +125,7 @@
 								"fileid": "0",
 								"SSML": "Also like a real teacher, TED looks at your answers to see how well you are learning how to design good experiments.",
 								"cues": [],
-								"duration": 5947.916666666667,
+								"duration": 6034.375,
 								"trim": 0,
 								"volume": 1
 							}
@@ -153,7 +153,7 @@
 								"fileid": "0",
 								"SSML": "If you answer TED's questions correctly, it will assume that you have learned the material and are ready to advance.",
 								"cues": [],
-								"duration": 5632.208333333333,
+								"duration": 5659.333333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -181,7 +181,7 @@
 								"fileid": "0",
 								"SSML": "If you answered TED's questions incorrectly, it will assume that you need extra help and more practice.",
 								"cues": [],
-								"duration": 5287.875,
+								"duration": 5248.375,
 								"trim": 0,
 								"volume": 1
 							}
@@ -209,7 +209,7 @@
 								"fileid": "0",
 								"SSML": "You will move through TED's instruction at your own pace.",
 								"cues": [],
-								"duration": 2656.2916666666665,
+								"duration": 2633.9166666666665,
 								"trim": 0,
 								"volume": 1
 							}
@@ -237,7 +237,7 @@
 								"fileid": "0",
 								"SSML": "You may find that sometimes you go backwards and repeat questions.",
 								"cues": [],
-								"duration": 3507.2916666666665,
+								"duration": 3501.75,
 								"trim": 0,
 								"volume": 1
 							}
@@ -265,7 +265,7 @@
 								"fileid": "0",
 								"SSML": "This is because TED has determined, based on your answers, that you need more practice before you can move forward.",
 								"cues": [],
-								"duration": 5821.333333333333,
+								"duration": 5611.416666666667,
 								"trim": 0,
 								"volume": 1
 							}
@@ -293,7 +293,7 @@
 								"fileid": "0",
 								"SSML": "The only way for TED to know how much you are learning is through your answers to its questions.",
 								"cues": [],
-								"duration": 4627.625,
+								"duration": 4514.458333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -321,7 +321,7 @@
 								"fileid": "0",
 								"SSML": "For this reason, it's important to make sure you understand what each question is asking and to answer carefully.",
 								"cues": [],
-								"duration": 5621.5,
+								"duration": 5472.708333333333,
 								"trim": 0,
 								"volume": 1
 							}
@@ -349,7 +349,39 @@
 								"fileid": "0",
 								"SSML": "Let's begin.",
 								"cues": [],
-								"duration": 919.2083333333334,
+								"duration": 890.5416666666666,
+								"trim": 0,
+								"volume": 1
+							}
+						}
+					],
+					"timedSet": [],
+					"templates": {},
+					"trim": [
+						0
+					],
+					"volume": [
+						1
+					]
+				}
+			}
+		}
+	},
+	"SSoundCheck": {
+		"tracks": {
+			"track1": {
+				"en": {
+					"html": "<p>Please use this time to adjust your volume to a comfortable level.  If your volume is at a good level, click on the circle then on the triangle to begin.</p>",
+					"text": "Please use this time to adjust your volume to a comfortable level. If your volume is at a good level, click on the circle then on the triangle to begin.",
+					"cueSet": "..............................................",
+					"segments": [
+						{
+							"templateVar": "__novar",
+							"__novar": {
+								"fileid": "0",
+								"SSML": "Please use this time to adjust your volume to a comfortable level. If your volume is at a good level, click on the circle then on the triangle to begin.",
+								"cues": [],
+								"duration": 8313.458333333334,
 								"trim": 0,
 								"volume": 1
 							}

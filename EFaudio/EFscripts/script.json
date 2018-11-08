@@ -210,5 +210,25 @@
 				}
 			}
 		}
+	},
+	"SSoundCheck": {
+		"tracks": {
+			"track1": {
+				"en": {
+					"html": "<p>Please use this time to adjust your volume to a comfortable level.  If your volume is at a good level, click on the circle then on the triangle to begin.</p>",
+					"text": "Please use this time to adjust your volume to a comfortable level. If your volume is at a good level, click on the circle then on the triangle to begin.",
+					"cueSet": "..............................................",
+					"segments": [],
+					"timedSet": [],
+					"templates": {},
+					"trim": [
+						0
+					],
+					"volume": [
+						1
+					]
+				}
+			}
+		}
 	}
 }
